@@ -1,0 +1,25 @@
+{
+  "name": "topology_feedback_25g_4f",
+  "schema_version": "dynbench_v2",
+  "group": "topology",
+  "difficulty": "hard",
+  "description": "Group C feedback: 25 genes, 4 fates, reporter-to-TF feedback edges",
+  "n_fates": 4,
+  "n_reporters_per_tf": 3,
+  "n_confounders": 5,
+  "n_noise_genes": 4,
+  "growth_type": "interaction",
+  "noise_sigma": 0.12,
+  "n_time_bins": 6,
+  "holdout_bins": [2, 4],
+  "n_init_cells": 2000,
+  "t_end": 10.0,
+  "topology": "procedural",
+  "topology_spec": {
+    "topology_family": "branching_with_feedback",
+    "feedback_strength": 0.3,
+    "cross_branch_coupling": 0.0,
+    "asymmetry_strength": 0.0,
+    "density_bias": "medium"
+  }
+}

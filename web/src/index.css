@@ -1,0 +1,227 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* -----------------------------------------------------------------------------
+ * CellCompass design tokens (Claude / Linear minimalist direction)
+ *
+ *   - Semantic CSS variables are the single source of truth for surface, line,
+ *     ink, and accent colors. Both light and dark themes only swap the RGB
+ *     triples below; components never reference `theme === 'dark'` strings.
+ *   - Tailwind exposes these via `bg-surface`, `border-line`, `text-ink`, etc.
+ *     (see `tailwind.config.js`). Use those tokens for product chrome; reach
+ *     for raw Tailwind palette colors only for status semantics (emerald/red).
+ *   - Radii are restricted to md / lg / xl / 2xl. No arbitrary `[24px]` values.
+ *   - Shadows live in `tailwind.config.js#boxShadow`. No colored glows.
+ * --------------------------------------------------------------------------- */
+
+@layer base {
+    :root {
+        --surface: 255 255 255;
+        --surface-muted: 250 250 250;
+        --surface-subtle: 244 244 245;
+        --surface-inverted: 24 24 27;
+
+        --line: 228 228 231;
+        --line-strong: 209 209 214;
+
+        --ink: 24 24 27;
+        --ink-muted: 82 82 91;
+        /* Darkened from zinc-500 (113) so small muted labels clear WCAG AA. */
+        --ink-soft: 90 90 99;
+
+        /* Refined cobalt blue — slightly deeper/cooler than default blue-600. */
+        --accent: 30 88 224;
+        --accent-soft: 224 233 252;
+        --accent-strong: 26 72 200;
+
+        color-scheme: light;
+    }
+
+    .dark {
+        --surface: 12 12 14;
+        --surface-muted: 24 24 27;
+        --surface-subtle: 39 39 42;
+        --surface-inverted: 250 250 250;
+
+        --line: 39 39 42;
+        --line-strong: 63 63 70;
+
+        --ink: 244 244 245;
+        --ink-muted: 161 161 170;
+        --ink-soft: 113 113 122;
+
+        /* Calmer, less neon blue for dark surfaces. */
+        --accent: 122 162 247;
+        --accent-soft: 30 54 120;
+        --accent-strong: 159 192 252;
+
+        color-scheme: dark;
+    }
+
+    html,
+    body,
+    #root {
+        height: 100%;
+    }
+
+    body {
+        @apply bg-surface text-ink antialiased;
+        font-feature-settings: 'cv11', 'ss01', 'ss03';
+    }
+
+    /* Tighter default focus ring that respects accent token. */
+    *:focus-visible {
+        outline: 2px solid rgb(var(--accent));
+        outline-offset: 2px;
+        border-radius: 6px;
+    }
+
+    /* Selection color. */
+    ::selection {
+        background-color: rgb(var(--accent) / 0.2);
+        color: rgb(var(--ink));
+    }
+
+    /* Cross-fade colors while the theme class flips (added briefly by
+       ThemeProvider.toggleTheme, then removed). */
+    .theme-transition *,
+    .theme-transition *::before,
+    .theme-transition *::after {
+        transition:
+            background-color 300ms ease,
+            border-color 300ms ease,
+            color 300ms ease,
+            fill 300ms ease,
+            stroke 300ms ease !important;
+    }
+
+    /* Respect users who prefer reduced motion. */
+    @media (prefers-reduced-motion: reduce) {
+        *,
+        *::before,
+        *::after {
+            animation-duration: 0.01ms !important;
+            animation-iteration-count: 1 !important;
+            transition-duration: 0.01ms !important;
+        }
+    }
+}
+
+@layer components {
+    /* ---------------------------------------------------------------------- *
+     * Scrollbar — thin, low-contrast, respects theme.
+     * ---------------------------------------------------------------------- */
+    .custom-scrollbar::-webkit-scrollbar {
+        width: 6px;
+        height: 6px;
+    }
+
+    .custom-scrollbar::-webkit-scrollbar-track {
+        background: transparent;
+    }
+
+    .custom-scrollbar::-webkit-scrollbar-thumb {
+        background-color: rgb(var(--line-strong) / 0.6);
+        border-radius: 9999px;
+        transition: background-color 150ms ease;
+    }
+
+    .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+        background-color: rgb(var(--ink-soft));
+    }
+
+    .custom-scrollbar {
+        scrollbar-width: thin;
+        scrollbar-color: rgb(var(--line-strong) / 0.6) transparent;
+    }
+
+    /* ---------------------------------------------------------------------- *
+     * KaTeX display blocks — avoid horizontal clipping on narrow viewports.
+     * ---------------------------------------------------------------------- */
+    .prose .katex-display,
+    .chat-markdown .katex-display {
+        max-width: 100%;
+        overflow-x: auto;
+        overflow-y: hidden;
+        -webkit-overflow-scrolling: touch;
+        padding-bottom: 0.25rem;
+    }
+
+    .prose .katex-display > .katex,
+    .chat-markdown .katex-display > .katex {
+        min-width: max-content;
+    }
+
+    /* ---------------------------------------------------------------------- *
+     * Subtle dot grid (used as ambient background instead of floating blobs).
+     * Radially masked so it fades out toward the lower half of the viewport.
+     * ---------------------------------------------------------------------- */
+    .bg-dot-grid {
+        background-image: radial-gradient(rgb(var(--line-strong) / 0.5) 1px, transparent 1px);
+        background-size: 22px 22px;
+        -webkit-mask-image: radial-gradient(ellipse 90% 65% at 50% 0%, black 30%, transparent 75%);
+        mask-image: radial-gradient(ellipse 90% 65% at 50% 0%, black 30%, transparent 75%);
+    }
+
+    /* Very faint accent wash anchored at the top of the viewport. */
+    .bg-ambient-glow {
+        background:
+            radial-gradient(70rem 26rem at 50% -8rem, rgb(var(--accent) / 0.07), transparent 65%),
+            radial-gradient(40rem 20rem at 85% -6rem, rgb(var(--accent) / 0.04), transparent 70%);
+    }
+
+    /* Live-status text — a soft sheen sweeps across muted text (Claude-style). */
+    .text-shimmer {
+        background-image: linear-gradient(
+            90deg,
+            rgb(var(--ink-soft)) 0%,
+            rgb(var(--ink)) 45%,
+            rgb(var(--ink-soft)) 90%
+        );
+        background-size: 200% 100%;
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        animation: shimmer 2.2s linear infinite;
+    }
+
+    /* Heading treatment for hero text — quiet vertical ink gradient. */
+    .text-hero-gradient {
+        background-image: linear-gradient(180deg, rgb(var(--ink)) 30%, rgb(var(--ink) / 0.65));
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+    }
+
+    /* ---------------------------------------------------------------------- *
+     * Animated status indicator (network / agent online).
+     * ---------------------------------------------------------------------- */
+    @keyframes pulse-ring {
+        0% {
+            box-shadow: 0 0 0 0 rgb(16 185 129 / 0.45);
+        }
+        70% {
+            box-shadow: 0 0 0 6px rgb(16 185 129 / 0);
+        }
+        100% {
+            box-shadow: 0 0 0 0 rgb(16 185 129 / 0);
+        }
+    }
+
+    .animate-pulse-status {
+        animation: pulse-ring 1.8s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    }
+
+    /* ---------------------------------------------------------------------- *
+     * Thinking dots — three muted bouncing dots used in active process blocks.
+     * ---------------------------------------------------------------------- */
+    @keyframes thinking-dot {
+        0%, 80%, 100% { transform: translateY(0); opacity: 0.4; }
+        40% { transform: translateY(-3px); opacity: 1; }
+    }
+
+    .thinking-dot {
+        animation: thinking-dot 1.2s ease-in-out infinite;
+    }
+}

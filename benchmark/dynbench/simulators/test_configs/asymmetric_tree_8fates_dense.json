@@ -1,0 +1,24 @@
+{
+  "schema_version": "dynbench_topology_spec_v1",
+  "topology_family": "asymmetric_tree",
+  "n_fates": 8,
+  "n_time_bins": 10,
+  "n_init_cells": 3000,
+  "n_reporters_per_tf": 2,
+  "n_confounders": 4,
+  "n_noise_genes": 3,
+  "growth_type": "interaction",
+  "noise_sigma": 0.18,
+  "t_end": 16.0,
+  "holdout_bins": [
+    3,
+    4,
+    5
+  ],
+  "feedback_strength": 0.0,
+  "cross_branch_coupling": 0.0,
+  "asymmetry_strength": 0.7,
+  "density_bias": "medium",
+  "transient_state_depth": 1,
+  "notes": "8-fate asymmetric tree: 2 dominant main-branch fates + 6 minor side-branch fates. Tests M3/M4 on imbalanced fate ratios, M6 on confounder resistance."
+}

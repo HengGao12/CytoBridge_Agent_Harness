@@ -1,0 +1,99 @@
+{
+  "books_dir": "/home/heng_g/books",
+  "extra_pdf_paths": [
+    "/mnt/d/AI_Agent/CytoBridge-agent-main/cytobridge_agent/rag/literature_db/literature/Unbalanced Optimal Transport Dynamic and Kantorovich Formulation.pdf"
+  ],
+  "books": [
+    {
+      "book_id": "2412_06264v1_2",
+      "title": "2412.06264v1-2",
+      "pdf_path": "/lustre/home/2501111653/books/2412.06264v1-2.pdf",
+      "num_pages": 83,
+      "num_chunks": 210
+    },
+    {
+      "book_id": "2603_18992v1",
+      "title": "Foundations of Schr\\\"odinger Bridges for Generative Modeling",
+      "pdf_path": "/lustre/home/2501111653/books/2603.18992v1.pdf",
+      "num_pages": 220,
+      "num_chunks": 522
+    },
+    {
+      "book_id": "978_3_031_92731_7",
+      "title": "Variational and Information Flows in Machine Learning and Optimal Transport",
+      "pdf_path": "/lustre/home/2501111653/books/978-3-031-92731-7.pdf",
+      "num_pages": 266,
+      "num_chunks": 515
+    },
+    {
+      "book_id": "applied_stochastic_analysis_e_li_vanden_eijnden",
+      "title": "applied-stochastic-analysis-e-li-vanden-eijnden",
+      "pdf_path": "/Users/zhenyizhang/Documents/GitHub/CytoBridge-agent-runtime-v2-20260309/cytobridge_agent/rag/theory_books/pdfs/applied-stochastic-analysis-e-li-vanden-eijnden.pdf",
+      "num_pages": 330,
+      "num_chunks": 520
+    },
+    {
+      "book_id": "computational_optimal_transport_peyre_cuturi",
+      "title": "Computational Optimal Transport",
+      "pdf_path": "/Users/zhenyizhang/Documents/GitHub/CytoBridge-agent-runtime-v2-20260309/cytobridge_agent/rag/theory_books/pdfs/computational-optimal-transport-peyre-cuturi.pdf",
+      "num_pages": 209,
+      "num_chunks": 437
+    },
+    {
+      "book_id": "computational_ot",
+      "title": "computational_ot",
+      "pdf_path": "/lustre/home/2501111653/books/computational_ot.pdf",
+      "num_pages": 209,
+      "num_chunks": 437
+    },
+    {
+      "book_id": "flow_matching_guide_and_code_lipman_2024",
+      "title": "Flow Matching Guide and Code",
+      "pdf_path": "/Users/zhenyizhang/Documents/GitHub/CytoBridge-agent-runtime-v2-20260309/cytobridge_agent/rag/theory_books/pdfs/flow-matching-guide-and-code-lipman-2024.pdf",
+      "num_pages": 83,
+      "num_chunks": 210
+    },
+    {
+      "book_id": "optimal_transport_applied_mathematicians_santambrogio",
+      "title": "Optimal Transport for Applied Mathematicians",
+      "pdf_path": "/Users/zhenyizhang/Documents/GitHub/CytoBridge-agent-runtime-v2-20260309/cytobridge_agent/rag/theory_books/pdfs/optimal-transport-applied-mathematicians-santambrogio.pdf",
+      "num_pages": 376,
+      "num_chunks": 849
+    },
+    {
+      "book_id": "ot_for_applied_mathematician",
+      "title": "OT for applied mathematician",
+      "pdf_path": "/lustre/home/2501111653/books/OT for applied mathematician.pdf",
+      "num_pages": 376,
+      "num_chunks": 849
+    },
+    {
+      "book_id": "schrodinger_bridges_generative_modeling_foundations_tang_2026",
+      "title": "Foundations of Schrodinger Bridges for Generative Modeling",
+      "pdf_path": "/Users/zhenyizhang/Documents/GitHub/CytoBridge-agent-runtime-v2-20260309/cytobridge_agent/rag/theory_books/pdfs/schrodinger-bridges-generative-modeling-foundations-tang-2026.pdf",
+      "num_pages": 220,
+      "num_chunks": 522
+    },
+    {
+      "book_id": "schrodinger_problem_optimal_transport_survey_leonard_2013",
+      "title": "A Survey of the Schrodinger Problem and Some of Its Connections with Optimal Transport",
+      "pdf_path": "/Users/zhenyizhang/Documents/GitHub/CytoBridge-agent-runtime-v2-20260309/cytobridge_agent/rag/theory_books/pdfs/schrodinger-problem-optimal-transport-survey-leonard-2013.pdf",
+      "num_pages": 40,
+      "num_chunks": 107
+    },
+    {
+      "book_id": "unbalanced_optimal_transport_dynamic_and_kantorovich_formulation",
+      "title": "An Interpolating distance between Optimal Transport and Fisher-Rao",
+      "pdf_path": "/lustre/home/2501111653/CytoBridge-agent/cytobridge_agent/rag/literature_db/literature/Unbalanced Optimal Transport Dynamic and Kantorovich Formulation.pdf",
+      "num_pages": 37,
+      "num_chunks": 71
+    },
+    {
+      "book_id": "variational_information_flows_ml_optimal_transport_2025",
+      "title": "Variational and Information Flows in Machine Learning and Optimal Transport",
+      "pdf_path": "/Users/zhenyizhang/Documents/GitHub/CytoBridge-agent-runtime-v2-20260309/cytobridge_agent/rag/theory_books/pdfs/variational-information-flows-ml-optimal-transport-2025.pdf",
+      "num_pages": 266,
+      "num_chunks": 515
+    }
+  ]
+}

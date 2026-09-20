@@ -1,0 +1,23 @@
+{
+  "schema_version": "dynbench_topology_spec_v1",
+  "topology_family": "branching_with_feedback",
+  "n_fates": 6,
+  "n_time_bins": 10,
+  "n_init_cells": 2500,
+  "n_reporters_per_tf": 1,
+  "n_confounders": 2,
+  "n_noise_genes": 2,
+  "growth_type": "multi",
+  "noise_sigma": 0.14,
+  "t_end": 14.0,
+  "holdout_bins": [
+    3,
+    4
+  ],
+  "feedback_strength": 0.6,
+  "cross_branch_coupling": 0.4,
+  "asymmetry_strength": 0.5,
+  "density_bias": "medium",
+  "transient_state_depth": 1,
+  "notes": "6-fate branching with feedback + asymmetry. 3 strong main fates + 3 weak side fates with feedback inhibition. Biology-realistic. Tests M4/M5/M6 on feedback loop understanding."
+}

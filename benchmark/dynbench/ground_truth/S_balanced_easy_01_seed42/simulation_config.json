@@ -1,0 +1,59 @@
+{
+  "scenario": "S_balanced_easy_01_seed42",
+  "difficulty": "balanced_easy_01",
+  "seed": 42,
+  "topology": "procedural",
+  "growth_drivers": [
+    "Gene_3"
+  ],
+  "gene_roles": {
+    "Gene_1": "tf",
+    "Gene_2": "tf",
+    "Gene_3": "reporter",
+    "Gene_4": "reporter",
+    "Gene_5": "confounder"
+  },
+  "toggle_pairs": [
+    [
+      "Gene_1",
+      "Gene_2"
+    ]
+  ],
+  "n_fates": 2,
+  "n_genes": 5,
+  "holdout_bins": [
+    2,
+    4
+  ],
+  "train_bins": [
+    0,
+    1,
+    3,
+    5
+  ],
+  "prediction_target_bins": [
+    2,
+    4
+  ],
+  "prediction_target_times": [
+    4.0,
+    8.0
+  ],
+  "prediction_eval_source": "log1p_counts_ground_truth",
+  "prediction_gt_weight_policy": "uniform_empirical",
+  "prediction_agent_weight_policy": "optional_output_weight",
+  "evaluation_contract": {
+    "split_mode": "canonical_holdout",
+    "velocity_scope": "train_h5ad_cells",
+    "growth_scope": "train_h5ad_cells",
+    "prediction_scope": "prediction_target_bins",
+    "prediction_gt_weight_policy": "uniform_empirical",
+    "prediction_agent_weight_policy": "optional_output_weight"
+  },
+  "gene_space_equals_latent": true,
+  "perturbation_protocol": {
+    "intervention_space": "gene_space",
+    "control_z_score": 0.0,
+    "perturbed_z_score": -5.0
+  }
+}

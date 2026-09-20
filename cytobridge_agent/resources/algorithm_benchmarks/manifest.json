@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "name": "cellcompass-algorithm-benchmarks",
+  "version": "2026-05-03",
+  "created_at": "2026-05-02T17:05:42.935483+00:00",
+  "recommended_install_root": "~/.cellcompass",
+  "release_tag": "algorithm-benchmarks-2026-05-03",
+  "assets": [
+    {
+      "name": "cellcompass-algorithm-benchmarks-2026-05-03.tar.zst",
+      "release_url": "https://github.com/JackkWangzh/CytoBridge-agent/releases/tag/algorithm-benchmarks-2026-05-03",
+      "multipart": true,
+      "sha256": "5756a625572ea9aa23fa1487fdcdf57dadaf34c292dd1221a174e4de32c02c79",
+      "size_bytes": 396473445,
+      "archive_root": "algorithm_benchmarks",
+      "contains": [
+        "registry.json",
+        "datasets",
+        "simulation_generators"
+      ],
+      "excluded": [
+        "builtin_runs"
+      ],
+      "parts": [
+        {
+          "name": "cellcompass-algorithm-benchmarks-2026-05-03.tar.zst.part-00",
+          "url": "https://api.github.com/repos/JackkWangzh/CytoBridge-agent/releases/assets/410646792",
+          "sha256": "b9497362fc7942d3528a48fcf71d8044d073d6eb2ec3535b816adb88ec5feed6",
+          "size_bytes": 67108864
+        },
+        {
+          "name": "cellcompass-algorithm-benchmarks-2026-05-03.tar.zst.part-01",
+          "url": "https://api.github.com/repos/JackkWangzh/CytoBridge-agent/releases/assets/410650844",
+          "sha256": "b23fe0c5804a1aca483ec058b1551606a41b121da984a31f4940be58e452399b",
+          "size_bytes": 67108864
+        },
+        {
+          "name": "cellcompass-algorithm-benchmarks-2026-05-03.tar.zst.part-02",
+          "url": "https://api.github.com/repos/JackkWangzh/CytoBridge-agent/releases/assets/410652502",
+          "sha256": "e718e346d8dc7aa75a82bb60bd42d2644b00b5bacc7a4a84e37b1c1e13eb6fe0",
+          "size_bytes": 67108864
+        },
+        {
+          "name": "cellcompass-algorithm-benchmarks-2026-05-03.tar.zst.part-03",
+          "url": "https://api.github.com/repos/JackkWangzh/CytoBridge-agent/releases/assets/410654212",
+          "sha256": "388b3e4521e73d093b0b342a875ba33ce670655bb26543706fb537dd191feeae",
+          "size_bytes": 67108864
+        },
+        {
+          "name": "cellcompass-algorithm-benchmarks-2026-05-03.tar.zst.part-04",
+          "url": "https://api.github.com/repos/JackkWangzh/CytoBridge-agent/releases/assets/410655291",
+          "sha256": "134ab296a6a364e5fa2addfca2614869f490bcb370c8d2d4b3329825619eede7",
+          "size_bytes": 67108864
+        },
+        {
+          "name": "cellcompass-algorithm-benchmarks-2026-05-03.tar.zst.part-05",
+          "url": "https://api.github.com/repos/JackkWangzh/CytoBridge-agent/releases/assets/410656595",
+          "sha256": "fc1b18d043f149f52f538b08968d1c284c4a3f635843a8387b09602017238219",
+          "size_bytes": 60929125
+        }
+      ]
+    }
+  ],
+  "datasets": [
+    {
+      "dataset_id": "aokfm_stage2_branching",
+      "title": "AOK-FM Stage2 Two-Branch Unbalanced Simulation",
+      "contract_status": "ready",
+      "tags": [
+        "branching",
+        "unbalanced",
+        "2d",
+        "heldout-source",
+        "simulation",
+        "stage2",
+        "claim"
+      ],
+      "stage_relevance": [
+        "stage2_claim_validation"
+      ],
+      "n_obs": 4300,
+      "n_vars": 2,
+      "time_points": [
+        "0.0",
+        "1.0",
+        "2.0",
+        "3.0",
+        "4.0"
+      ],
+      "builtin_baselines": [],
+      "baseline_artifacts": [],
+      "leaderboard_entries": 0,
+      "data_h5ad_size_bytes": 338040
+    },
+    {
+      "dataset_id": "aokfm_stage2_branching_v2",
+      "title": "AOK-FM Stage2 Held-Out Two-Branch Unbalanced Simulation",
+      "contract_status": "ready",
+      "tags": [
+        "branching",
+        "unbalanced",
+        "2d",
+        "heldout-source",
+        "simulation",
+        "stage2",
+        "claim"
+      ],
+      "stage_relevance": [
+        "stage2_claim_validation"
+      ],
+      "n_obs": 4300,
+      "n_vars": 2,
+      "time_points": [
+        "0.0",
+        "1.0",
+        "2.0",
+        "3.0",
+        "4.0"
+      ],
+      "builtin_baselines": [
+        "builtin_balanced_ot_cfm",
+        "builtin_crufm",
+        "builtin_cyto_simulation",
+        "builtin_dynamical_ot",
+        "builtin_ruot",
+        "builtin_sf2m",
+        "builtin_unbalanced_ot",
+        "builtin_vgfm"
+      ],
+      "baseline_artifacts": [
+        "builtin_balanced_ot_cfm",
+        "builtin_crufm",
+        "builtin_cyto_simulation",
+        "builtin_dynamical_ot",
+        "builtin_ruot",
+        "builtin_sf2m",
+        "builtin_unbalanced_ot",
+        "builtin_vgfm"
+      ],
+      "leaderboard_entries": 8,
+      "data_h5ad_size_bytes": 344348
+    },
+    {
+      "dataset_id": "simulation_gene_2d",
+      "title": "Simulation Gene 2D Minimal",
+      "contract_status": "ready",
+      "tags": [
+        "simulation",
+        "tiny",
+        "2d",
+        "minimal"
+      ],
+      "stage_relevance": [
+        "stage1_feasibility",
+        "stage2_claim_validation",
+        "stage3_tuning"
+      ],
+      "n_obs": 3031,
+      "n_vars": 2,
+      "time_points": [
+        "0.0",
+        "1.0",
+        "2.0",
+        "3.0",
+        "4.0"
+      ],
+      "builtin_baselines": [
+        "builtin_balanced_ot_cfm",
+        "builtin_crufm",
+        "builtin_cyto_simulation",
+        "builtin_dynamical_ot",
+        "builtin_ruot",
+        "builtin_sf2m",
+        "builtin_unbalanced_ot",
+        "builtin_vgfm"
+      ],
+      "baseline_artifacts": [
+        "builtin_balanced_ot_cfm",
+        "builtin_crufm",
+        "builtin_cyto_simulation",
+        "builtin_dynamical_ot",
+        "builtin_ruot",
+        "builtin_sf2m",
+        "builtin_unbalanced_ot",
+        "builtin_vgfm"
+      ],
+      "leaderboard_entries": 8,
+      "data_h5ad_size_bytes": 266823
+    },
+    {
+      "dataset_id": "weinreb_rawrebuild_full_k10mindiff1",
+      "title": "Weinreb raw rebuild full k10 mindiff1 lineage-barcoded",
+      "contract_status": "ready",
+      "tags": [
+        "real",
+        "weinreb",
+        "lineage-tracing",
+        "lineage-barcoded",
+        "barcode",
+        "medium",
+        "pca"
+      ],
+      "stage_relevance": [
+        "stage1_feasibility",
+        "stage3_tuning",
+        "final_regression"
+      ],
+      "n_obs": 49302,
+      "n_vars": 2447,
+      "time_points": [
+        "0",
+        "1",
+        "2"
+      ],
+      "builtin_baselines": [
+        "builtin_balanced_ot_cfm",
+        "builtin_crufm",
+        "builtin_cyto_simulation",
+        "builtin_dynamical_ot",
+        "builtin_ruot",
+        "builtin_sf2m",
+        "builtin_unbalanced_ot",
+        "builtin_vgfm"
+      ],
+      "baseline_artifacts": [
+        "builtin_balanced_ot_cfm",
+        "builtin_crufm",
+        "builtin_cyto_simulation",
+        "builtin_dynamical_ot",
+        "builtin_ruot",
+        "builtin_sf2m",
+        "builtin_unbalanced_ot",
+        "builtin_vgfm"
+      ],
+      "leaderboard_entries": 8,
+      "data_h5ad_size_bytes": 102023238
+    }
+  ],
+  "notes": [
+    "The git repository stores only this manifest and installer code.",
+    "Large h5ad files, saved trajectories, and baseline checkpoints are distributed as a release asset.",
+    "Install into ~/.cellcompass so runtime tools find ~/.cellcompass/algorithm_benchmarks."
+  ]
+}

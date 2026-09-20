@@ -1,0 +1,25 @@
+{
+  "name": "fate_gradient_25g_16f",
+  "schema_version": "dynbench_v2",
+  "group": "fate_gradient",
+  "difficulty": "hard",
+  "description": "Group B high: 25 genes, 16 fates, 4 toggle pairs, dense TF network",
+  "n_fates": 16,
+  "n_reporters_per_tf": 2,
+  "n_confounders": 1,
+  "n_noise_genes": 0,
+  "growth_type": "interaction",
+  "noise_sigma": 0.15,
+  "n_time_bins": 8,
+  "holdout_bins": [3, 5],
+  "n_init_cells": 2500,
+  "t_end": 14.0,
+  "topology": "procedural",
+  "topology_spec": {
+    "topology_family": "branching_tree",
+    "feedback_strength": 0.0,
+    "cross_branch_coupling": 0.0,
+    "asymmetry_strength": 0.0,
+    "density_bias": "medium"
+  }
+}

@@ -1,0 +1,58 @@
+# Weinreb et al. 2020 — Mouse Hematopoiesis
+# 3 time points: day 2, 4, 6
+
+dataset_id: weinreb_2020
+source_h5ad: data/Weinreb_sub.h5ad
+time_key: "Time point"
+label_key: "Cell type annotation"
+
+teacher:
+  mode: fixed
+  model: crufm
+  seed: 42
+  device: cpu
+  config_path: null
+  config_overrides:
+    select_hvg: false  # Use eval's 2000 HVGs as-is; don't re-select
+
+evaluation:
+  gene_space: hvg
+  n_hvg: 2000
+  n_pca: 50
+  grn_panel_size: 20
+  grn_top_k: 40
+  perturbation_target_cap: 20
+  n_fate_simulations: 8
+  n_perturbation_simulations: 8
+  n_perturbation_steps: 30
+  teacher_sigma: 0.05
+
+fate_definition:
+  label_key: "Cell type annotation"
+  root_policy: earliest_timepoint
+  terminal_policy: latest_timepoint_labels
+  min_terminal_cells: 20
+
+prompt_template: |
+  You are given multi-timepoint scRNA-seq data with cells observed at time points: {training_timepoints}.
+  Time point {held_out_timepoint} has been removed.
+  Build a dynamical model and predict the cell distribution at the missing time point {held_out_timepoint}.
+  Save the predicted cells as a separate h5ad file named 'predicted_heldout.h5ad' in your output directory.
+  The time key column in the dataset is '{time_key}'.
+  IMPORTANT: The .X of predicted_heldout.h5ad must contain gene expression values in normalized+log1p space
+  (i.e. after scanpy normalize_total with target_sum=1e4 and log1p). The .var_names must match the input data genes.
+  If you work in PCA/latent space internally, reconstruct back to gene expression before saving.
+  If your method produces per-cell weights, save them in .obs['weight'].
+
+folds:
+  - fold_id: middle_holdout
+    held_out_timepoint: "4.0"
+    training_timepoints:
+      - "2.0"
+      - "6.0"
+
+  - fold_id: late_holdout
+    held_out_timepoint: "6.0"
+    training_timepoints:
+      - "2.0"
+      - "4.0"

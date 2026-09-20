@@ -1,0 +1,84 @@
+[
+  {
+    "scenario": "S_balanced2_hard_05_seed1246",
+    "difficulty": "balanced2_hard_05",
+    "seed": 1246,
+    "n_genes": 26,
+    "n_fates": 8,
+    "n_cells": 12100,
+    "n_edges": 44,
+    "classifier_accuracy": 0.9988,
+    "validation": {
+      "anti_heuristic_passed": "True",
+      "max_driver_time_corr": 0.4357,
+      "max_confounder_time_corr": 0.8843,
+      "driver_corrs": {
+        "Gene_7": 0.4227,
+        "Gene_8": 0.4357
+      },
+      "confounder_corrs": {
+        "Gene_19": 0.8843,
+        "Gene_20": 0.8533,
+        "Gene_21": 0.8359,
+        "Gene_22": 0.808,
+        "Gene_23": 0.7983
+      },
+      "all_time_corrs": {
+        "Gene_19": 0.8843,
+        "Gene_20": 0.8533,
+        "Gene_21": 0.8359,
+        "Gene_22": 0.808,
+        "Gene_23": 0.7983,
+        "Gene_8": 0.4357,
+        "Gene_18": 0.4344,
+        "Gene_12": 0.4229,
+        "Gene_7": 0.4227,
+        "Gene_17": 0.4165,
+        "Gene_13": 0.4126,
+        "Gene_14": 0.4063,
+        "Gene_15": 0.401,
+        "Gene_16": 0.3953,
+        "Gene_11": 0.3941,
+        "Gene_24": 0.3895,
+        "Gene_26": 0.3869,
+        "Gene_25": 0.3823,
+        "Gene_9": 0.3737,
+        "Gene_10": 0.3634,
+        "Gene_1": 0.3277,
+        "Gene_6": 0.3071,
+        "Gene_4": 0.3023,
+        "Gene_3": 0.2921,
+        "Gene_5": 0.289,
+        "Gene_2": 0.2676
+      },
+      "growth_drivers": [
+        "Gene_7",
+        "Gene_8"
+      ],
+      "confounders": [
+        "Gene_19",
+        "Gene_20",
+        "Gene_21",
+        "Gene_22",
+        "Gene_23"
+      ]
+    },
+    "paths": {
+      "ground_truth": "/lustre/home/2501111653/CytoBridge-agent/benchmark/dynbench/ground_truth/S_balanced2_hard_05_seed1246",
+      "task_package": "/lustre/home/2501111653/CytoBridge-agent/benchmark/dynbench/task_packages/S_balanced2_hard_05_seed1246"
+    },
+    "gt_check": {
+      "passed": true,
+      "total_score": 1.0,
+      "per_metric": {
+        "M1_velocity": 1.0,
+        "M2_growth": 1.0,
+        "M3_distribution": 1.0,
+        "M4_fate": 1.0,
+        "M5_perturbation": 1.0,
+        "M6_grn": 1.0
+      },
+      "issues": []
+    }
+  }
+]

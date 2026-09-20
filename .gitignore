@@ -1,0 +1,66 @@
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# Local runtime state / generated assets
+.cellcompass/
+_supervisor_archives/
+output_*/
+cytobridge_output*/
+figures/
+results/
+web/output_*/
+theory_knowledge.json
+
+# Local planning scratch files
+task_plan.md
+findings.md
+progress.md
+
+# Common local test artifacts
+tmp_plotly_test_after_browser_path.png
+cell_types_at_t0.png
+test_execution_output/
+
+# Local packaging / desktop clutter
+*.egg-info/
+.DS_Store
+
+# Repository-local helper/test trees are intentionally not published
+/scripts/
+/tests/
+test_*.py
+
+# Local RAG model/runtime artifacts
+cytobridge_agent/rag/all-mpnet-base-v2/
+cytobridge_agent/rag/en_core_web_sm-3.8.0/
+cytobridge_agent/rag/__pycache__/
+cytobridge_agent/rag/rag_main(github).py
+cytobridge_agent/rag/literature_db/literature/
+cytobridge_agent/rag/theory_books/pdfs/
+cytobridge_agent/rag/embedding_base/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Frontend dependencies
+web/node_modules/
+
+# Benchmark outputs
+benchmark/results/
+
+# Generated DynBench datasets; keep the smoke scenario used by the examples
+benchmark/dynbench/ground_truth/*
+!benchmark/dynbench/ground_truth/S_balanced_easy_01_seed42/
+!benchmark/dynbench/ground_truth/S_balanced_easy_01_seed42/**
+benchmark/dynbench/task_packages/*
+!benchmark/dynbench/task_packages/S_balanced_easy_01_seed42/
+!benchmark/dynbench/task_packages/S_balanced_easy_01_seed42/**

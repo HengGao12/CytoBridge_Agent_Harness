@@ -1,0 +1,593 @@
+A comparison of single-cell trajectory inference methods.pdf
+Saelens, W., Cannoodt, R., Todorov, H., & Saeys, Y. (2019). A comparison of single-cell trajectory inference methods. Nature Biotechnology, *37*(5), 547–554. https://doi.org/10.1038/s41587-019-0071-9
+
+Advances in single-cell omics and multiomics for high-resolution molecular profiling.pdf
+Lim, J., Park, C., Kim, M., & Lee, J. W. (2024). Advances in single-cell omics and multiomics for high-resolution molecular profiling. Experimental & Molecular Medicine, *56*(3), 515–526. https://doi.org/10.1038/s12276-024-01186-2
+
+Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis.pdf
+Hou, W., & Ji, Z. (2024). Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis. Nature Methods, *21*(9), 1462–1465. https://doi.org/10.1038/s41592-024-02235-4
+
+Benchmarking atlas-level data integration in single-cell genomics.pdf
+Luecken, M. D., Büttner, M., Chaichoompu, K., Danese, A., Interlandi, M., Müller, M. F., Strobl, D. C., Zappia, L., Dugas, M., Colomé-Tatché, M., & Theis, F. J. (2022). Benchmarking atlas-level data integration in single-cell genomics. Nature Methods, *19*(1), 41–50. https://doi.org/10.1038/s41592-021-01336-8
+
+CellRank 2 unified fate mapping in multiview single-cell data.pdf
+Weiler, P., Lange, M., Klein, M., Pe'er, D., & Theis, F. J. (2024). CellRank 2: Unified fate mapping in multiview single-cell data. Nature Methods, *21*(8), 1196–1205. https://doi.org/10.1038/s41592-024-02303-9
+
+Contextual AI models for single-cell protein biology.pdf
+Li, M. M., Huang, Y., Sumathipala, M., Xie, H., Liu, C., Islam, S. M. A., & Sontag, D. (2024). Contextual AI models for single-cell protein biology. Nature Methods, *21*(10), 1546–1557. https://doi.org/10.1038/s41592-024-02341-3
+
+Gene trajectory inference for single-cell data by optimal transport metrics.pdf
+Qu, R., Cheng, X., Sefik, E., Choudhary, S., Li, C., & Zhang, F. (2025). Gene trajectory inference for single-cell data by optimal transport metrics. Nature Biotechnology, *43*(2), 258–268. https://doi.org/10.1038/s41587-024-02186-3
+
+Highly sensitive spatial transcriptomics at near-cellular resolution with Slide-seqV2.pdf
+Stickels, R. R., Murray, E., Kumar, P., Li, J., Marshall, J. L., Di Bella, D. J., Arlotta, P., Macosko, E. Z., & Chen, F. (2021). Highly sensitive spatial transcriptomics at near-cellular resolution with Slide-seqV2. Nature Biotechnology, *39*(3), 313–319. https://doi.org/10.1038/s41587-020-0739-1
+
+Mapping cells through time and space with moscot.pdf
+Klein, D., Palla, G., Lange, M., Klein, M., Virshup, I., Rybakov, S., Angerer, P., & Theis, F. J. (2025). Mapping cells through time and space with moscot. Nature, *638*(8042), 1065–1075. https://doi.org/10.1038/s41586-024-08453-2
+
+Multi-omics single-cell data integration and regulatory inference with graph-linked embedding.pdf
+Cao, Z.-J., & Gao, G. (2022). Multi-omics single-cell data integration and regulatory inference with graph-linked embedding. Nature Biotechnology, *40*(9), 1458–1466. https://doi.org/10.1038/s41587-022-01284-4
+
+On the Relation Between Optimal Transport and Schrödinger Bridges A Stochastic Control Viewpoint.pdf
+Chen, Y., Georgiou, T. T., & Pavon, M. (2016). On the relation between optimal transport and Schrödinger bridges: A stochastic control viewpoint. Journal of Optimization Theory and Applications, *169*(2), 671–691. https://doi.org/10.1007/s10957-015-0803-z
+
+Optimal Entropy-Transport problems and a new Hellinger–Kantorovich distance between positive measures.pdf
+Liero, M., Mielke, A., & Savaré, G. (2018). Optimal entropy-transport problems and a new Hellinger–Kantorovich distance between positive measures. Inventiones Mathematicae, *211*(3), 969–1117. https://doi.org/10.1007/s00222-017-0759-8
+
+Optimal-Transport Analysis of Single-Cell Gene Expression Identifies Developmental Trajectories in Reprogramming.pdf
+Schiebinger, G., Shu, J., Tabaka, M., Cleary, B., Subramanian, V., Solomon, A., Gould, J., Liu, S., Lin, S., Berube, P., Lee, L., Chen, J., Brumbaugh, J., Rigollet, P., Hochedlinger, K., Jaenisch, R., Regev, A., & Lander, E. S. (2019). Optimal-transport analysis of single-cell gene expression identifies developmental trajectories in reprogramming. Cell, *176*(4), 928–943. https://doi.org/10.1016/j.cell.2019.01.006
+
+Reconstructing growth and dynamic trajectories from single-cell transcriptomics data.pdf
+Sha, Y., Qiu, Y., Zhou, P., & Nie, Q. (2024). Reconstructing growth and dynamic trajectories from single-cell transcriptomics data. Nature Machine Intelligence, *6*(1), 25–39. https://doi.org/10.1038/s42256-023-00763-w
+
+Resolving cellular dynamics using single-cell temporal.pdf
+Liu, Y., Huang, K., & Chen, W. (2024). Resolving cellular dynamics using single-cell temporal transcriptomics. Current Opinion in Biotechnology, *85*, 103060. https://doi.org/10.1016/j.copbio.2023.103060
+
+Improved single-cell ATAC-seq reveals chromatin dynamics of in vitro corticogenesis.pdf
+Mulqueen, R. M., DeRosa, B. A., Thornton, C. A., Sayar, Z., Torkenczy, K. A., Fields, A. J., Wright, K. M., Nan, X., Ramji, R., Steemers, F. J., O'Roak, B. J., & Adey, A. C. (2019). Improved single-cell ATAC-seq reveals chromatin dynamics of in vitro corticogenesis. bioRxiv. https://doi.org/10.1101/637256
+
+CFM-GP Unified Conditional Flow Matching to Learn Gene Perturbation Across Cell Types.pdf
+Abir, A. R., Dip, S. A., & Zhang, L. (2025). CFM-GP: Unified conditional flow matching to learn gene perturbation across cell types. arXiv. https://arxiv.org/abs/2508.08312
+
+Computational Optimal Transport.pdf
+Peyré, G., & Cuturi, M. (2020). Computational optimal transport. arXiv. https://arxiv.org/abs/1803.00567
+
+Conditional Flow Matching Simulation-Free Dynamic Optimal Transport.pdf
+Tong, A., Malkin, N., Huguet, G., Zhang, Y., Rector-Brooks, J., Kilian, F., & Wolf, G. (2023). Conditional flow matching: Simulation-free dynamic optimal transport. arXiv. https://doi.org/10.48550/arXiv.2302.00482
+
+Flow Matching for Generative Modeling.pdf
+Lipman, Y., Chen, R. T. Q., Ben-Hamu, H., Nickel, M., & Le, M. (2023). Flow matching for generative modeling. arXiv. https://arxiv.org/abs/2210.02747
+
+Improving and generalizing flow-based generative models with minibatch optimal transport.pdf
+Tong, A., Fatras, K., Malkin, N., Huguet, G., Zhang, Y., Rector-Brooks, J., Wolf, G., & Bengio, Y. (2024). Improving and generalizing flow-based generative models with minibatch optimal transport. arXiv. https://arxiv.org/abs/2302.00482
+
+Learning stochastic dynamics from snapshots through regularized unbalanced optimal transport.pdf
+Zhang, Z., Li, T., & Zhou, P. (2025). Learning stochastic dynamics from snapshots through regularized unbalanced optimal transport. In The Thirteenth International Conference on Learning Representations (ICLR 2025).
+
+Variational Regularized Unbalanced Optimal Transport Single Network, Least Action.pdf
+Sun, Y., Zhang, Z., Wang, Z., Li, T., & Zhou, P. (2025). Variational regularized unbalanced optimal transport: Single network, least action. arXiv. https://arxiv.org/abs/2505.11823
+
+Scaling Algorithms for Unbalanced Transport Problems.pdf
+Chizat, L., Peyré, G., Schmitzer, B., & Vialard, F.-X. (2017). Scaling algorithms for unbalanced transport problems. arXiv. https://arxiv.org/abs/1607.05816
+
+Unbalanced Optimal Transport Dynamic and Kantorovich Formulation.pdf
+Chizat, L., Peyré, G., Schmitzer, B., & Vialard, F.-X. (2019). Unbalanced optimal transport: Dynamic and Kantorovich formulation. arXiv. https://arxiv.org/abs/1508.05216
+
+Kinetic Optimal Transport (OTIKIN) -- Part 1 Second-Order Discrepancies Between Probability Measures.pdf
+Brigati, G., Maas, J., & Quattrocchi, F. (2025). Kinetic optimal transport (OTIKIN) – Part 1: Second-order discrepancies between probability measures. arXiv. https://arxiv.org/abs/2502.15665
+
+Schrödinger Bridge with Quadratic State Cost is Exactly Solvable.pdf
+Teter, A. M. H., Wang, W., & Halder, A. (2024). Schrödinger bridge with quadratic state cost is exactly solvable. arXiv. https://arxiv.org/abs/2406.00503
+
+The Wasserstein Proximal Gradient Algorithm.pdf
+Salim, A., Korba, A., & Luise, G. (2021). The Wasserstein proximal gradient algorithm. arXiv. https://arxiv.org/abs/2002.03035
+
+ContextFlow Context-Aware Flow Matching for Trajectory Inference from Spatial Omics Data.pdf
+Anonymous. (2026). ContextFlow: Context-aware flow matching for trajectory inference from spatial omics data. In International Conference on Learning Representations (ICLR). https://openreview.net/forum?id=366HPAs7aP
+
+THE GEOMETRY OF OPTIMAL TRANSPORTATION.pdf
+Gangbo, W., & McCann, R. J. (1996). The geometry of optimal transportation. Acta Mathematica, *177*(2), 113–161. https://doi.org/10.1007/BF02392620
+
+Deciphering cell-fate trajectories using spatiotemporal single-cell transcriptomic data.pdf
+Zhang, Z., Wang, Z., Sun, Y., Shen, J., Peng, Q., Li, T., & Zhou, P. (2025). Deciphering cell-fate trajectories using spatiotemporal single-cell transcriptomic data. NPJ Systems Biology and Applications, *12*(1), 2. https://doi.org/10.1038/s41540-025-00624-9
+
+Interpretable data integration for single-cell and spatial multi-omics.pdf
+Yang C, He Z, Nie Q, Zhang L. Interpretable data integration for single-cell and spatial multi-omics. Cell Syst. 2026 Feb 18;17(2):101479. doi: 10.1016/j.cels.2025.101479. Epub 2026 Feb 4. PMID: 41643671.
+
+CellStream Dynamical Optimal Transport Informed Embeddings for Reconstructing Cellular Trajectories from Snapshots Data.pdf
+Ling, Y., Zhang, P., Zhang, Z., & Zhou, P. (2025). CellStream: Dynamical optimal transport informed embeddings for reconstructing cellular trajectories from snapshots data. arXiv. https://arxiv.org/abs/2511.13786
+
+MultistageOT Multistage optimal transport infers trajectories from a snapshot of single-cell data.pdf
+Tronstad, M., Karlsson, J., & Dahlin, J. S. (2025). MultistageOT: Multistage optimal transport infers trajectories from a snapshot of single-cell data. Proceedings of the National Academy of Sciences of the United States of America, 122. https://doi.org/10.48550/arXiv.2502.05241
+
+Spatial Transcriptomics Brings New Challenges and Opportunities for Trajectory Inference.pdf
+Heitz M, Ma Y, Kubal S, Schiebinger G. Spatial Transcriptomics Brings New Challenges and Opportunities for Trajectory Inference. Annu Rev Biomed Data Sci. 2025 Aug;8(1):1-19. doi: 10.1146/annurev-biodatasci-040324-030052. Epub 2024 Nov 14. PMID: 39541229.
+
+CellFlow enables generative single-cell phenotype modeling with flow matching.pdf
+Klein, D., Fleck, J. S., Bobrovskiy, D., Zimmermann, L., Becker, S., Palma, A., Dony, L., Tejada-Lapuerta, A., Huguet, G., Lin, H.-C., Azbukina, N., Sanchís-Calleja, F., Uscidda, T., Szalata, A., Gander, M., Regev, A., Treutlein, B., Camp, J. G., & Theis, F. J. (2025). CellFlow enables generative single-cell phenotype modeling with flow matching [Preprint]. bioRxiv. https://doi.org/10.1101/2025.04.11.648220
+
+Supervised pre-training for feature extraction in cell type annotation of single-cell multi-omics data.pdf
+Zhang, Y., Li, T., Liu, Y., Luo, H., Xu, Y., Wang, Z., & Zou, Q. (2025). Supervised pre-training for feature extraction in cell type annotation of single-cell multi-omics data. Applied Soft Computing, 183, Article 113585. https://doi.org/10.1016/j.asoc.2024.113585
+
+Spatio-Temporal Alignments Optimal transport through space and time.pdf
+Janati, H., Cuturi, M., & Gramfort, A. (2019). Spatio-temporal alignments: Optimal transport through space and time. arXiv. https://arxiv.org/abs/1910.03860
+
+Microenvironment-aware transcriptome reconstruction in spatial transcriptomics.pdf
+Yang, S.-T., Peng, P., & He, H.-F. (2026). Microenvironment-aware transcriptome reconstruction in spatial transcriptomics [Preprint]. Research Square. https://doi.org/10.21203/rs.3.rs-8566824/v1
+
+Reversed graph embedding resolves complex single-cell trajectories.pdf
+Qiu, X., Mao, Q., Tang, Y. et al. Reversed graph embedding resolves complex single-cell trajectories. Nat Methods 14, 979–982 (2017). https://doi.org/10.1038/nmeth.4402
+
+RNA velocity of single cells.pdf
+La Manno, G., Soldatov, R., Zeisel, A. et al. RNA velocity of single cells. Nature 560, 494–498 (2018). https://doi.org/10.1038/s41586-018-0414-6
+
+Generalizing RNA velocity to transient cell states through dynamical modeling.pdf
+Bergen, V., Lange, M., Peidli, S. et al. Generalizing RNA velocity to transient cell states through dynamical modeling. Nat Biotechnol 38, 1408–1414 (2020). https://doi.org/10.1038/s41587-020-0591-3
+
+PAGA graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells.pdf
+Wolf, F.A., Hamey, F.K., Plass, M. et al. PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells. Genome Biol 20, 59 (2019). https://doi.org/10.1186/s13059-019-1663-x
+
+Sceptic pseudotime analysis for time-series single-cell sequencing and imaging data.pdf
+Li, G., Kim, HJ., Pendyala, S. et al. Sceptic: pseudotime analysis for time-series single-cell sequencing and imaging data. Genome Biol 26, 209 (2025). https://doi.org/10.1186/s13059-025-03679-3
+
+A semi-supervised Bayesian approach for marker gene trajectory inference from single-cell RNA-seq data.pdf
+Wang, J., Sun, L., Wei, N., Huang, Y., & Zhang, N. (2025). A semi-supervised Bayesian approach for marker gene trajectory inference from single-cell RNA-seq data. Bioinformatics, *41*(9), Article btaf454. https://doi.org/10.1093/bioinformatics/btaf454
+
+Identifying multicellular spatiotemporal organization of cells with SpaceFlow.pdf
+Ren, H., Walker, B.L., Cang, Z. et al. Identifying multicellular spatiotemporal organization of cells with SpaceFlow. Nat Commun 13, 4076 (2022). https://doi.org/10.1038/s41467-022-31739-w
+
+Spatiotemporal transcriptomic atlas of mouse organogenesis using DNA nanoball-patterned arrays.pdf
+Chen, A., Liao, S., Cheng, M., Ma, K., Wu, L., Lai, Y., Qiu, X., Yang, J., Xu, J., Hao, S., Wang, X., Lu, H., Chen, X., Liu, X., Huang, X., Li, Z., Hong, Y., Jiang, Y., Peng, J., … Wang, J. (2022). Spatiotemporal transcriptomic atlas of mouse organogenesis using DNA nanoball-patterned arrays. Cell, *185*(10), 1777-1792.e21. https://doi.org/10.1016/j.cell.2022.04.003
+
+Identification of spatial expression trends in single-cell gene expression data.pdf
+Edsgärd, D., Johnsson, P. & Sandberg, R. Identification of spatial expression trends in single-cell gene expression data. Nat Methods 15, 339–342 (2018). https://doi.org/10.1038/nmeth.4634
+
+spVelo RNA velocity inference for multi-batch spatial transcriptomics data.pdf
+Long, W., Liu, T., Xue, L. et al. spVelo: RNA velocity inference for multi-batch spatial transcriptomics data. Genome Biol 26, 239 (2025). https://doi.org/10.1186/s13059-025-03701-8
+
+Multi-omic single-cell velocity models epigenome–transcriptome interactions and improves cell fate prediction.pdf
+Li, C., Virgilio, M.C., Collins, K.L. et al. Multi-omic single-cell velocity models epigenome–transcriptome interactions and improves cell fate prediction. Nat Biotechnol 41, 387–398 (2023). https://doi.org/10.1038/s41587-022-01476-y
+
+Inferring differential dynamics from multi-lineage, multi-omic, and multi-sample single-cell data with MultiVeloVAE.pdf
+Li, C., Gu, Y., Virgilio, M.C. et al. Inferring differential dynamics from multi-lineage, multi-omic, and multi-sample single-cell data with MultiVeloVAE. Nat Commun 16, 11505 (2025). https://doi.org/10.1038/s41467-025-66287-6
+
+NicheNet modeling intercellular communication by linking ligands to target genes.pdf
+Browaeys, R., Saelens, W. & Saeys, Y. NicheNet: modeling intercellular communication by linking ligands to target genes. Nat Methods 17, 159–162 (2020). https://doi.org/10.1038/s41592-019-0667-5
+
+Learning single-cell perturbation responses using neural optimal transport.pdf
+Bunne, C., Stark, S.G., Gut, G. et al. Learning single-cell perturbation responses using neural optimal transport. Nat Methods 20, 1759–1768 (2023). https://doi.org/10.1038/s41592-023-01969-x
+
+Trajectory Inference with Cell–Cell Interactions (TICCI) intercellular communication improves the accuracy of trajectory inference methods.pdf
+Yifeng Fu, Hong Qu, Dacheng Qu, Min Zhao, Trajectory Inference with Cell–Cell Interactions (TICCI): intercellular communication improves the accuracy of trajectory inference methods, Bioinformatics, Volume 41, Issue 2, February 2025, btaf027, https://doi.org/10.1093/bioinformatics/btaf027
+
+Compositional perturbation autoencoder for single-cell response modeling.pdf
+Lotfollahi, M., Klimovskaia Susmelj, A., De Donno, C., Ji, Y., Ibarra, I. L., Wolf, F. A., Yakubova, N., Theis, F. J., & Lopez-Paz, D. (2021). Compositional perturbation autoencoder for single-cell response modeling [Preprint]. bioRxiv. https://doi.org/10.1101/2021.04.14.439903
+
+scREPA Predicting single-cell perturbation responses with cycle-consistent representation alignment.pdf
+Wang, Y., Chen, X., Li, X., & Wong, K.-C. (2026). scREPA: Predicting single-cell perturbation responses with cycle-consistent representation alignment. Computational Biology and Chemistry, *120*(Part 2), Article 108712. https://doi.org/10.1016/j.compbiolchem.2025.108712
+
+Gromov-Wasserstein Factorization Models for Graph Clustering.pdf
+Xu, H. (2019). Gromov-Wasserstein factorization models for graph clustering [Preprint]. arXiv. https://doi.org/10.48550/arXiv.1911.08530
+
+Single-Cell Multi-omic Integration Compares and Contrasts Features of Brain Cell Identity.pdf
+Welch JD, Kozareva V, Ferreira A, Vanderburg C, Martin C, Macosko EZ. Single-Cell Multi-omic Integration Compares and Contrasts Features of Brain Cell Identity. Cell. 2019 Jun 13;177(7):1873-1887.e17. doi: 10.1016/j.cell.2019.05.006. Epub 2019 Jun 6. PMID: 31178122; PMCID: PMC6716797.
+
+Structured Matching via Cost-Regularized Unbalanced Optimal Transport.pdf
+Pardini, E., & Papagiannouli, K. (2025). Structured matching via cost-regularized unbalanced optimal transport [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2511.19075
+
+Unbalanced CO-Optimal Transport.pdf
+Tran, Q.-H., Janati, H., Courty, N., Flamary, R., Redko, I., Demetci, P., & Singh, R. (2022). Unbalanced CO-optimal transport [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2205.14923
+
+scMRDR A scalable and flexible framework for unpaired single-cell multi-omics data integration.pdf
+Sun, J., Liang, C., Wei, R., Zheng, P., Bai, L., Ouyang, W., Yan, H., & Ye, P. (2025). scMRDR: A scalable and flexible framework for unpaired single-cell multi-omics data integration. arXiv. https://doi.org/10.48550/arXiv.2510.24987
+
+Latent Causal Diffusions for Single-Cell Perturbation Modeling.pdf
+Lorch L, Zhang J, Bunne C, Krause A, Schölkopf B, Uhler C. Latent Causal Diffusions for Single-Cell Perturbation Modeling. ArXiv [Preprint]. 2026 Jan 20:arXiv:2601.15341v1. PMID: 41647197; PMCID: PMC12869406.
+
+Aligned cross-modal integration and regulatory heterogeneity characterization of single-cell multiomic data with deep contrastive learning.pdf
+Cheng, Y., Su, Y., Fan, Y. et al. Aligned cross-modal integration and regulatory heterogeneity characterization of single-cell multiomic data with deep contrastive learning. Genome Med 18, 10 (2026). https://doi.org/10.1186/s13073-025-01586-7
+
+Mapping biology in space from spatial transcriptomics platforms to analytical tools and databases.pdf
+Guo, Z.-Z., Wu, R., Li, W., Yang, K., Ying, X., Alinejad-Rokny, H., & Ye, Y. (2026). Mapping biology in space: From spatial transcriptomics platforms to analytical tools and databases. Science Bulletin, *71*(4), 921–945. https://doi.org/10.1016/j.scib.2026.01.034
+
+STRAND Sequence-Conditioned Transport for Single-Cell Perturbations.pdf
+Fu, B., Dasoulas, G., Gabbita, S., Lin, X., Gao, S., Su, X., Ghosh, S., & Zitnik, M. (2026). STRAND: Sequence-conditioned transport for single-cell perturbations. [Conference presentation]. https://api.semanticscholar.org/CorpusID:285470193
+
+CiCLoDS Joint cell clustering and gene selection for single-cell spatial transcriptomics.pdf
+Wang, N., He, Y., Ray, E. et al. CiCLoDS: Joint cell clustering and gene selection for single-cell spatial transcriptomics. Sci Rep 16, 5356 (2026). https://doi.org/10.1038/s41598-026-39168-1
+
+VIP-OT Dissecting Single-Cell Biochemical State Dynamics under Perturbation via Vibrational Painting and Optimal Transport.pdf
+Li, X., Stark, S. G., Liu, X., Wei, M., Zhao, Z., Qi, J., Chen, X., Dang, T. S. N., Wu, Y., Zhang, K., Min, W., & Shu, J. (2025). VIP-OT: Dissecting single-cell biochemical state dynamics under perturbation via vibrational painting and optimal transport. bioRxiv. https://doi.org/10.64898/2025.12.09.693255
+
+PhyloVelo enhances transcriptomic velocity field mapping using monotonically expressed genes.pdf
+Wang, K., Hou, L., Wang, X. et al. PhyloVelo enhances transcriptomic velocity field mapping using monotonically expressed genes. Nat Biotechnol 42, 778–789 (2024). https://doi.org/10.1038/s41587-023-01887-5
+
+Accurate trajectory inference in time-series spatial transcriptomics with structurally-constrained optimal transport.pdf
+Bryan, J. P., Farhi, S. L., & Cleary, B. (2025). Accurate trajectory inference in time-series spatial transcriptomics with structurally-constrained optimal transport. bioRxiv. Advance online publication. https://doi.org/10.1101/2025.03.19.644194
+
+scCausalVI disentangles single-cell perturbation responses with causality-aware generative model.pdf
+An, S., Cho, J.-W., Cao, K., Xiong, J., Hemberg, M., & Wan, L. (2025). scCausalVI disentangles single-cell perturbation responses with a causality-aware generative model. Cell Systems, *16*(3), 101443. https://doi.org/10.1016/j.cels.2025.101443
+
+Generalized and scalable trajectory inference in single-cell omics data with VIA.pdf
+Stassen, S.V., Yip, G.G.K., Wong, K.K.Y. et al. Generalized and scalable trajectory inference in single-cell omics data with VIA. Nat Commun 12, 5528 (2021). https://doi.org/10.1038/s41467-021-25773-3
+
+Spatial integration of multi-omics single-cell data with SIMO.pdf
+Yang, P., Jin, K., Yao, Y. et al. Spatial integration of multi-omics single-cell data with SIMO. Nat Commun 16, 1265 (2025). https://doi.org/10.1038/s41467-025-56523-4
+
+Multi-omics integration for both single-cell and spatially resolved data based on dual-path graph attention auto-encoder.pdf
+Tongxuan Lv, Yong Zhang, Junlin Liu, Qiang Kang, Lin Liu, Multi-omics integration for both single-cell and spatially resolved data based on dual-path graph attention auto-encoder, Briefings in Bioinformatics, Volume 25, Issue 5, September 2024, bbae450, https://doi.org/10.1093/bib/bbae450
+
+Accurate trajectory inference in time-series spatial transcriptomics with structurally-constrained optimal transport.pdf
+Bryan JP, Farhi SL, Cleary B. Accurate trajectory inference in time-series spatial transcriptomics with structurally-constrained optimal transport. bioRxiv [Preprint]. 2025 Mar 19:2025.03.19.644194. doi: 10.1101/2025.03.19.644194. PMID: 40166168; PMCID: PMC11957147.
+
+Reconstructing single-cell resolution from spatial transcriptomics with CellRefiner.pdf
+Bourgain-Chang, E., Kuang, X., Cang, Z. et al. Reconstructing single-cell resolution from spatial transcriptomics with CellRefiner. Nat Commun (2026). https://doi.org/10.1038/s41467-026-70090-2
+
+Constructing the spatiotemporal atlas of single-cell lineage trajectories in stereotypic biological structures.pdf
+Wang R, Yang X, Lian C, Wang J, Chen J, Qian Y, Xu Y, Wang L, Marioni JC, Tam PPL, Jing N. Constructing the spatiotemporal atlas of single-cell lineage trajectories in stereotypic biological structures. iScience. 2025 Dec 1;29(1):114307. doi: 10.1016/j.isci.2025.114307. PMID: 41509909; PMCID: PMC12774768.
+
+Interpretation, extrapolation and perturbation of single cells.pdf
+Dimitrov, D., Schrod, S., Rohbeck, M. et al. Interpretation, extrapolation and perturbation of single cells. Nat Rev Genet (2026). https://doi.org/10.1038/s41576-025-00920-4
+
+Paradigms, innovations, and biological applications of RNA velocity a comprehensive review.pdf
+Wang Y, Li J, Zha H, Liu S, Huang D, Fu L, Liu X. Paradigms, innovations, and biological applications of RNA velocity: a comprehensive review. Brief Bioinform. 2025 Jul 2;26(4):bbaf339. doi: 10.1093/bib/bbaf339. PMID: 40668554; PMCID: PMC12265890.
+
+scMODAL a general deep learning framework for comprehensive single-cell multi-omics data alignment with feature links.pdf
+Wang, G., Zhao, J., Lin, Y. et al. scMODAL: a general deep learning framework for comprehensive single-cell multi-omics data alignment with feature links. Nat Commun 16, 4994 (2025). https://doi.org/10.1038/s41467-025-60333-z
+
+WFR-FM Simulation-Free Dynamic Unbalanced Optimal Transport.pdf
+Peng, Q., Wang, Z., Ying, J., Sun, Y., Nie, Q., Zhang, L., Li, T., & Zhou, P. (2026). WFR-FM: Simulation-free dynamic unbalanced optimal transport. arXiv. https://arxiv.org/abs/2601.06810
+
+Predicting Cellular Responses with Variational Causal Inference and Refined Relational Information.pdf
+Wu, Y., Barton, R. A., Wang, Z., Ioannidis, V. N., De Donno, C., Price, L., Voloch, L. F., & Karypis, G. (2022). Predicting cellular responses with variational causal inference and refined relational information. arXiv. https://arxiv.org/abs/2210.00116
+
+Learning Genetic Perturbation Effects with Variational Causal Inference.pdf
+Liu E, Zhang J, Uhler C. Learning Genetic Perturbation Effects with Variational Causal Inference. bioRxiv [Preprint]. 2025 Jun 5:2025.06.05.657988. doi: 10.1101/2025.06.05.657988. Update in: PLoS Comput Biol. 2026 Feb 2;22(2):e1013194. doi: 10.1371/journal.pcbi.1013194. PMID: 40501829; PMCID: PMC12157634.
+
+TiRank prioritizes phenotypic niches in tumor microenvironment for clinical biomarker discovery.pdf
+Lin Y, Huang Z, Lin Z, Lin Y, Song J, Luo L, Chi J, Zheng Y, Gao Y, Lin J, Li X, Liang C, Zhang L, Wang X, Sun Y, Yu R, Chen Q, Tong M. TiRank prioritizes phenotypic niches in tumor microenvironment for clinical biomarker discovery. Genome Med. 2026 Feb 13;18(1):23. doi: 10.1186/s13073-026-01604-2. PMID: 41689080; PMCID: PMC12910759.
+
+SCMO a deep learning model integrating the single-cell resolution TME ecosystem and multi-omics for survival prediction in CRC patients.pdf
+He, Z., Fan, X., Li, Y. et al. SCMO: a deep learning model integrating the single-cell resolution TME ecosystem and multi-omics for survival prediction in CRC patients. J Transl Med 24, 281 (2026). https://doi.org/10.1186/s12967-025-07417-y
+
+Curly Flow Matching for Learning Non-gradient Field Dynamics.pdf
+Petrovic, K., Atanackovic, L., Moro, V., Kapuśniak, K., Ceylan, I. I., Bronstein, M. M., Bose, A. J., & Tong, A. (2025). Curly flow matching for learning non-gradient field dynamics. arXiv. https://arxiv.org/abs/2510.26645
+
+Robust integration and annotation of single-cell and spatial omics data using interpretable gene programs.pdf
+Zhang Y, Ming W, Yu B, Wang L, Lu K, Xu L, Ni Y, Deng R, Chen D. Robust integration and annotation of single-cell and spatial omics data using interpretable gene programs. Cell Genom. 2025 Dec 19:101105. doi: 10.1016/j.xgen.2025.101105. Epub ahead of print. PMID: 41421360.
+
+Integration of imaging-based and sequencing-based spatial omics mapping on the same tissue section via DBiTplus.pdf
+Enninful, A., Zhang, Z., Klymyshyn, D. et al. Integration of imaging-based and sequencing-based spatial omics mapping on the same tissue section via DBiTplus. Nat Methods (2026). https://doi.org/10.1038/s41592-025-02948-0
+
+Mapping lineage-traced cells across time points with moslin.pdf
+Lange, M., Piran, Z., Klein, M. et al. Mapping lineage-traced cells across time points with moslin. Genome Biol 25, 277 (2024). https://doi.org/10.1186/s13059-024-03422-4
+
+Efficient Imputation for Patch-based Missing Single-cell Data via Cluster-regularized Optimal Transport.pdf
+Liu, Y., Yang, J., Yu, Z., Pan, W., Wang, F., & Ma, T. (2026). Efficient imputation for patch-based missing single-cell data via cluster-regularized optimal transport. arXiv. https://doi.org/10.48550/arXiv.2601.14653
+
+TwinCell Large Causal Cell Model for Reliable and Interpretable Therapeutic Target Prioritisation.pdf
+Morlot, J.-B., Dias, T., Hatem, E., & Abraham, Y. (2026). TwinCell: Large causal cell model for reliable and interpretable therapeutic target prioritisation. bioRxiv. https://doi.org/10.64898/2026.01.29.702072
+
+Pertpy an end-to-end framework for perturbation analysis.pdf
+Heumos, L., Ji, Y., May, L. et al. Pertpy: an end-to-end framework for perturbation analysis. Nat Methods 23, 350–359 (2026). https://doi.org/10.1038/s41592-025-02909-7
+
+SSA a novel method for Single-cell and Spatial transcriptomics Alignment.pdf
+Tran, B., Tran, D., & Nguyen, T. (2024). SSA: A novel method for single-cell and spatial transcriptomics alignment. In H. Al-Mubaid, T. Aldwairi, & O. Eulenstein (Eds.), *Proceedings of the 16th International Conference on Bioinformatics and Computational Biology (BICOB-2024)* (Vol. 101, pp. 25–38). EasyChair. https://doi.org/10.29007/9cr1
+
+POTTR Identifying Recurrent Trajectories in Evolutionary and Developmental Processes using Posets.pdf
+Käufler, S. C., Schmidt, H., Jürgens, M., Klau, G. W., Sashittal, P., & Raphael, B. (2026). POTTR: Identifying recurrent trajectories in evolutionary and developmental processes using posets. bioRxiv. https://doi.org/10.64898/2026.02.25.707960
+
+Causal machine learning for single-cell genomics.pdf
+Tejada-Lapuerta, A., Bertin, P., Bauer, S. et al. Causal machine learning for single-cell genomics. Nat Genet 57, 797–808 (2025). https://doi.org/10.1038/s41588-025-02124-2
+
+Causal disentanglement for single-cell representations and controllable counterfactual generation.pdf
+Gao, Y., Dong, K., Shan, C. et al. Causal disentanglement for single-cell representations and controllable counterfactual generation. Nat Commun 16, 6775 (2025). https://doi.org/10.1038/s41467-025-62008-1
+
+TrajLens Visual Analysis for Constructing Cell Developmental Trajectories in Cross-Sample Exploration.pdf
+Wang, Q., Ruan, S., Sheng, R., Wang, Y., Zhu, M., & Qu, H. (2025). TrajLens: Visual analysis for constructing cell developmental trajectories in cross-sample exploration. IEEE Transactions on Visualization and Computer Graphics, *32*(1), 1219–1229. https://doi.org/10.1109/TVCG.2025.3524865
+
+Benchmarking algorithms for RNA velocity inference.pdf
+Huang K, Zhou Y, Wang T, Li X, Zhao X, Liu X, Huang L, Zhou X, Liu J. Benchmarking algorithms for RNA velocity inference. bioRxiv [Preprint]. 2026 Jan 3:2026.01.03.697314. doi: 10.64898/2026.01.03.697314. PMID: 41509202; PMCID: PMC12776318.
+
+Transformative advances in single-cell omics a comprehensive review of foundation models, multimodal integration and computational ecosystems.pdf
+Yiu, T., Chen, B., Wang, H. et al. Transformative advances in single-cell omics: a comprehensive review of foundation models, multimodal integration and computational ecosystems. J Transl Med 23, 1176 (2025). https://doi.org/10.1186/s12967-025-07091-0
+
+FGOT Graph Distances based on Filters and Optimal Transport.pdf
+Maretic, H. P., El Gheche, M., Chierchia, G., & Frossard, P. (2021). FGOT: Graph distances based on filters and optimal transport. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, Issue 9, pp. 7710–7718). AAAI Press. https://doi.org/10.1609/aaai.v35i9.16946
+
+RNA velocity and beyond Current advances in modeling single-cell transcriptional dynamics.pdf
+Shimamura, T. (2025). RNA velocity and beyond: Current advances in modeling single-cell transcriptional dynamics. Allergology International, *74*(4), 525–533. https://doi.org/10.1016/j.alit.2025.08.005
+
+scBench Evaluating AI Agents on Single-Cell RNA-seq Analysis.pdf
+Workman, K., Yang, Z., Muralidharan, H. S., Abdulali, A., & Le, H. (2026). scBench: Evaluating AI agents on single-cell RNA-seq analysis. scBench. Advance online publication. https://www.semanticscholar.org/paper/285462401
+
+A Computational Framework for Solving Wasserstein Lagrangian Flows.pdf
+Neklyudov, K., Brekelmans, R., Tong, A., Atanackovic, L., Liu, Q., & Makhzani, A. (2023). A computational framework for solving Wasserstein Lagrangian flows [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2310.10649
+
+Modeling Cell Dynamics and Interactions with Unbalanced Mean Field Schrödinger Bridge.pdf
+Zhang, Z., Wang, Z., Sun, Y., Li, T., & Zhou, P. (2025). Modeling cell dynamics and interactions with unbalanced mean field Schrödinger bridge [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2505.11197
+
+Enforcing Latent Euclidean Geometry in Single-Cell VAEs for Manifold Interpolation.pdf
+Palma, A., Rybakov, S., Hetzel, L., Günnemann, S., & Theis, F. J. (2025). Enforcing latent Euclidean geometry in single-cell VAEs for manifold interpolation [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2507.11789
+
+LineageOT is a unified framework for lineage tracing and trajectory inference.pdf
+Forrow, A., & Schiebinger, G. (2021). LineageOT is a unified framework for lineage tracing and trajectory inference. Nature Communications, 12, 4940. https://doi.org/10.1038/s41467-021-25133-1
+
+Metric Flow Matching for Smooth Interpolations on the Data Manifold.pdf
+Kapuśniak, K., Potaptchik, P., Reu, T., Zhang, L., Tong, A., Bronstein, M., Bose, A. J., & Di Giovanni, F. (2024). Metric flow matching for smooth interpolations on the data manifold. Advances in Neural Information Processing Systems, 37. https://doi.org/10.52202/079017-4291
+
+Synchronized Optimal Transport for Joint Modeling of Dynamics Across Multiple Spaces.pdf
+Cang, Z., & Zhao, Y. (2025). Synchronized optimal transport for joint modeling of dynamics across multiple spaces. SIAM Journal on Applied Mathematics, 85(1), 341–365. https://doi.org/10.1137/24M1667555
+
+stVCR Reconstructing spatio-temporal dynamics of cell development using optimal transport.pdf
+Peng, Q., Zhou, P., & Li, T. (2024). stVCR: Reconstructing spatio-temporal dynamics of cell development using optimal transport [Preprint]. bioRxiv. https://doi.org/10.1101/2024.06.02.596937
+Modeling Complex System Dynamics with Flow Matching Across Time and Conditions.pdf
+Rohbeck, M., De Brouwer, E., Bunne, C., Huetter, J.-C., Biton, A., Chen, K. Y., Regev, A., & Lopez, R. (2025). Modeling complex system dynamics with flow matching across time and conditions. In International Conference on Learning Representations (ICLR).
+Flow Matching on General Geometries.pdf
+Chen, R. T. Q., & Lipman, Y. (2024). Flow matching on general geometries. In International Conference on Learning Representations (ICLR). https://doi.org/10.48550/arXiv.2302.03660
+Joint Velocity-Growth Flow Matching for Single-Cell Dynamics Modeling.pdf
+Wang, D., Jiang, Y., Zhang, Z., Gu, X., Zhou, P., & Sun, J. (2025). Joint velocity-growth flow matching for single-cell dynamics modeling [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2505.13413
+Learning cell dynamics with neural differential equations.pdf
+Vinyard, M. E., Rasmussen, A. W., Li, R., Klein, A. M., Getz, G., & Pinello, L. (2025). Learning cell dynamics with neural differential equations. Nature Machine Intelligence, 7, 1969–1984. https://doi.org/10.1038/s42256-025-01150-3
+Building Normalizing Flows with Stochastic Interpolants.pdf
+Albergo, M. S., & Vanden‐Eijnden, E. (2022). Building Normalizing Flows with Stochastic Interpolants.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2209.15571
+Stochastic interpolants A unifying framework for flows and diffusions.pdf
+Albergo, Michael S, & Boffi, Nicholas M, & Vanden-Eijnden, Eric (2023). Stochastic interpolants: A unifying framework for flows and diffusions. arXiv preprint arXiv:2303.08797.
+Inferring pattern-driving intercellular flows from single-cell and spatial transcriptomics.pdf
+Almet, A. A., Tsai, Y. C., Watanabe, M., & Nie, Q. (2024). Inferring pattern-driving intercellular flows from single-cell and spatial transcriptomics.. Nature Methods, 21(10), 1806–1817 https://doi.org/10.1038/s41592-024-02380-w
+The factorization of the hypergeometric equation.pdf
+Schroedinger, Erwin (1999). The factorization of the hypergeometric equation. arXiv preprint.
+Mean-field and graph limits for collective dynamics models with n time-varying weights.pdf
+Ayi, N., & Duteil, N. P. (2020). Mean-field and graph limits for collective dynamics models with\n time-varying weights.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2012.08807
+The mean field Schrödinger problem ergodic behavior, entropy estimates and functional inequalities.pdf
+Backhoff‐Veraguas, J., Conforti, G., Gentil, I., & Léonard, C. (2020). The mean field Schrödinger problem: ergodic behavior, entropy estimates and functional inequalities.. Probability Theory and Related Fields, 178(1-2), 475–530 https://doi.org/10.1007/s00440-020-00977-8
+E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials.pdf
+Batzner, S., Musaelian, A., Sun, L., Geiger, M., Mailoa, J. P., Kornbluth, M., Molinari, N., Smidt, T., & Kozinsky, B. (2022). E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials.. Nature Communications, 13(1), 2453–2453 https://doi.org/10.1038/s41467-022-29939-5
+Quantifying energy landscape of oscillatory systems Explosion, pre-solution, and diffusion decomposition.pdf
+Bian, Shirui, & Zhou, Ruisong, & Lin, Wei, & Li, Chunhe (2024). Quantifying energy landscape of oscillatory systems: Explosion, pre-solution, and diffusion decomposition. arXiv preprint arXiv:2401.06959.
+Regularized unbalanced optimal transport as entropy minimization with respect to branching brownian motion.pdf
+Baradat, Aymeric, & Lavenant, Hugo (2021). Regularized unbalanced optimal transport as entropy minimization with respect to branching brownian motion. arXiv preprint arXiv:2111.01666.
+The Schrödinger Bridge between Gaussian Measures has a Closed Form.pdf
+Bunne, C., Hsieh, Y. P., Cuturi, M., & Krause, A. (2022). The Schrödinger Bridge between Gaussian Measures has a Closed Form.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2202.05722
+Unbalanced Diffusion Schrödinger Bridge.pdf
+Pariset, M., Hsieh, Y. P., Bunne, C., Krause, A., & Bortoli, V. D. (2023). Unbalanced Diffusion Schrödinger Bridge.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2306.09099
+Screening cell–cell communication in spatial transcriptomics via collective optimal transport.pdf
+Cang, Z., Zhao, Y., Almet, A. A., Stabell, A. R., Ramos, R., Plikus, M. V., Atwood, S. X., & Nie, Q. (2023). Screening cell–cell communication in spatial transcriptomics via collective optimal transport.. Nature Methods, 20(2), 218–228 https://doi.org/10.1038/s41592-022-01728-4
+A unified computational framework for single-cell data integration with optimal transport.pdf
+Cao, K., Gong, Q., Hong, Y., & Wan, L. (2022). A unified computational framework for single-cell data integration with optimal transport.. Nature Communications, 13(1), 7419–7419 https://doi.org/10.1038/s41467-022-35094-8
+Propagation of chaos a review of models, methods and applications. II. Applications.pdf
+Chaintron, Louis-Pierre, & Diez, Antoine (2021). Propagation of chaos: a review of models, methods and applications. II. Applications. arXiv preprint arXiv:2106.14812.
+Likelihood Training of Schrödinger Bridge using Forward-Backward SDEs Theory.pdf
+Chen, T., Liu, G. H., & Theodorou, E. A. (2021). Likelihood Training of Schrödinger Bridge using Forward-Backward SDEs Theory.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2110.11291
+The most likely evolution of diffusing and vanishing particles Schrodinger Bridges with unbalanced marginals.pdf
+Chen, Y., Georgiou, T. T., & Pavon, M. (2021). The most likely evolution of diffusing and vanishing particles: Schrodinger Bridges with unbalanced marginals.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2108.02879
+The Gromov–Wasserstein distance between networks and stable network invariants.pdf
+Chowdhury, S., & Mémoli, F. (2019). The Gromov–Wasserstein distance between networks and stable network invariants.. Information and Inference A Journal of the IMA, 8(4), 757–787 https://doi.org/10.1093/imaiai/iaz026
+Context specificity of the EMT transcriptional response.pdf
+Cook, D. P., & Vanderhyden, B. C. (2020). Context specificity of the EMT transcriptional response.. Nature Communications, 11(1), 2142–2142 https://doi.org/10.1038/s41467-020-16066-2
+DeepVelo deep learning extends RNA velocity to multi-lineage systems with cell-specific kinetics.pdf
+Cui, H., Maan, H., Vladoiu, M., Zhang, J., Taylor, M. D., & Wang, B. (2024). DeepVelo: deep learning extends RNA velocity to multi-lineage systems with cell-specific kinetics.. Genome biology, 25(1), 27–27 https://doi.org/10.1186/s13059-023-03148-9
+Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling.pdf
+Bortoli, V. D., Thornton, J., Heng, J., & Douc, R. (2021). Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2106.01357
+Multi-omics with dynamic network biomarker algorithm prefigures organ-specific metastasis of lung adenocarcinoma.pdf
+Zhang, X., Xiao, K., Wen, Y., Wu, F., Gao, G., Chen, L., & Zhou, C. (2024). Multi-omics with dynamic network biomarker algorithm prefigures organ-specific metastasis of lung adenocarcinoma.. Nature Communications, 15(1), 9855–9855 https://doi.org/10.1038/s41467-024-53849-3
+Action Functional as Early Warning Indicator in the Space of Probability Measures.pdf
+Zhang, Peng, & Gao, Ting, & Guo, Jin, & Duan, Jinqiao (2024). Action Functional as Early Warning Indicator in the Space of Probability Measures. arXiv preprint arXiv:2403.10405.
+Neural Lagrangian Schrödinger Bridge Diffusion Modeling for Population Dynamics.pdf
+Koshizuka, T., & Sato, I. (2022). Neural Lagrangian Schrödinger Bridge: Diffusion Modeling for Population Dynamics.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2204.04853
+Unbalancedness in Neural Monge Maps Improves Unpaired Domain Translation.pdf
+Eyring, L., Klein, D., Uscidda, T., Palla, G., Kilbertus, N., Akata, Z., & Theis, F. J. (2023). Unbalancedness in Neural Monge Maps Improves Unpaired Domain Translation.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2311.15100
+Quantitative Propagation of Chaos for 2D Viscous Vortex Model with General Circulations on the Whole Space.pdf
+Feng, Xuanrui, & Wang, Zhenfu (2024). Quantitative Propagation of Chaos for 2D Viscous Vortex Model with General Circulations on the Whole Space. arXiv preprint arXiv:2411.14266.
+Interpolating between Optimal Transport and MMD using Sinkhorn Divergences.pdf
+Feydy, J., Séjourné, T., François-Xavier, V., Амари, , Trouvé, A., & Peyré, G. (2018). Interpolating between Optimal Transport and MMD using Sinkhorn Divergences.. arXiv (Cornell University), 89, 2681 https://doi.org/10.48550/arxiv.1810.08278
+Propagation of chaos for the 2D viscous vortex model.pdf
+Mischler, S., Hauray, M., & Fournier, N. (2012). Propagation of chaos for the 2D viscous vortex model.. SPIRE - Sciences Po Institutional REpository
+Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells.pdf
+Gayoso, A., Weiler, P., Lotfollahi, M., Klein, D., Hong, J., Streets, A., Theis, F. J., & Yosef, N. (2023). Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells.. Nature Methods, 21(1), 50–59 https://doi.org/10.1038/s41592-023-01994-w
+Generative Entropic Neural Optimal Transport To Map Within and Across Spaces.pdf
+Klein, Dominik, & Uscidda, Théo, & Theis, Fabian, & Cuturi, Marco (2023). Generative Entropic Neural Optimal Transport To Map Within and Across Spaces. arXiv preprint arXiv:2310.09254.
+Trajectory Inference via Mean-field Langevin in Path Space.pdf
+Chizat, L., Zhang, S. X., Heitz, M., & Schiebinger, G. (2022). Trajectory Inference via Mean-field Langevin in Path Space.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2205.07146
+Trajectory inference for a branching SDE model of cell differentiation.pdf
+Ventre, Elias, & Forrow, Aden, & Gadhiwala, Nitya, & Chakraborty, Parijat, & Angel, Omer, & Schiebinger, Geoffrey (2023). Trajectory inference for a branching SDE model of cell differentiation. arXiv preprint arXiv:2307.07687.
+Variational Mixtures of ODEs for Inferring Cellular Gene Expression Dynamics.pdf
+Gu, Y., Blaauw, D., & Welch, J. D. (2022). Variational Mixtures of ODEs for Inferring Cellular Gene Expression Dynamics.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2207.04166
+Partially Observed Trajectory Inference using Optimal Transport and a Dynamics Prior.pdf
+Gu, Anming, & Chien, Edward, & Greenewald, Kristjan (2024). Partially Observed Trajectory Inference using Optimal Transport and a Dynamics Prior. arXiv preprint arXiv:2406.07475.
+SLICE determining cell differentiation and lineage based on single cell entropy.pdf
+Guo, M., Bao, E. L., Wagner, M., Whitsett, J. A., & Xu, Y. (2016). SLICE: determining cell differentiation and lineage based on single cell entropy.. Nucleic Acids Research, 45(7), gkw1278–gkw1278 https://doi.org/10.1093/nar/gkw1278
+Entropic regularisation of unbalanced optimal transportation problems.pdf
+Buze, Maciej, & Duong, Manh Hong (2023). Entropic regularisation of unbalanced optimal transportation problems. arXiv preprint arXiv:2305.02410.
+Denoising Diffusion Probabilistic Models.pdf
+Steven, Y. (2020). Denoising Diffusion Probabilistic Models.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2006.11239
+Lévy Score Function and Score-Based Particle Algorithm for Nonlinear Lévy--Fokker--Planck Equations.pdf
+Huang, Yuanfei, & Liu, Chengyu, & Zhou, Xiang (2024). Lévy Score Function and Score-Based Particle Algorithm for Nonlinear Lévy--Fokker--Planck Equations. arXiv preprint arXiv:2412.19520.
+I textsuperscript{2}SB Image-to-Image Schrödinger Bridge.pdf
+Liu, Guan-Horng, & Vahdat, Arash, & Huang, De-An, & Theodorou, Evangelos A, & Nie, Weili, & Anandkumar, Anima (2023). I\textsuperscript{2}SB: Image-to-Image Schrödinger Bridge. arXiv preprint arXiv:2302.05872.
+Entropic Optimal Transport between Unbalanced Gaussian Measures has a Closed Form.pdf
+Janati, H., Muzellec, B., Peyré, G., & Cuturi, M. (2020). Entropic Optimal Transport between Unbalanced Gaussian Measures has a Closed Form.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2006.02572
+A physics-informed neural SDE network for learning cellular dynamics from time-series scRNA-seq data.pdf
+Jiang, Q., & Wan, L. (2024). A physics-informed neural SDE network for learning cellular dynamics from time-series scRNA-seq data.. Bioinformatics, 40(Supplement_2), ii120–ii127 https://doi.org/10.1093/bioinformatics/btae400
+Dynamic modeling, optimization, and deep learning for high-dimensional complex biological data.pdf
+Jiang, Q., & Wan, L. (2025). Dynamic modeling, optimization, and deep learning for high-dimensional complex biological data.. Scientia Sinica Mathematica, 55(7), 1413–1413 https://doi.org/10.1360/ssm-2024-0308
+Convergence Analysis of Flow Matching in Latent Space with Transformers.pdf
+Jiao, Yuling, & Lai, Yanming, & Wang, Yang, & Yan, Bokai (2024). Convergence Analysis of Flow Matching in Latent Space with Transformers. arXiv preprint arXiv:2404.02538.
+Convergence of Continuous Normalizing Flows for Learning Probability Distributions.pdf
+Gao, Yuan, & Huang, Jian, & Jiao, Yuling, & Zheng, Shurong (2024). Convergence of Continuous Normalizing Flows for Learning Probability Distributions. arXiv preprint arXiv:2404.00551.
+Latent Schrödinger Bridge Diffusion Model for Generative Learning.pdf
+Jiao, Yuling, & Kang, Lican, & Lin, Huazhen, & Liu, Jin, & Zuo, Heng (2024). Latent Schrödinger Bridge Diffusion Model for Generative Learning. arXiv preprint arXiv:2404.13309.
+scEpath energy landscape-based inference of transition probabilities and cellular trajectories from single-cell transcriptomic data.pdf
+Jin, S., MacLean, A. L., Peng, T., & Nie, Q. (2018). scEpath: energy landscape-based inference of transition probabilities and cellular trajectories from single-cell transcriptomic data.. Bioinformatics, 34(12), 2077–2086 https://doi.org/10.1093/bioinformatics/bty058
+Random Batch Methods (RBM) for interacting particle systems.pdf
+Jin, S., Li, L., & Liu, J. G. (2019). Random Batch Methods (RBM) for interacting particle systems.. Journal of Computational Physics, 400, 108877–108877 https://doi.org/10.1016/j.jcp.2019.108877
+Auto-Encoding Variational Bayes.pdf
+Kingma, Diederik P, & Welling, Max (2013). Auto-Encoding Variational Bayes. arXiv preprint arXiv:1312.6114.
+Construction of the landscape for multi-stable systems Potential landscape, quasi-potential, A-type integral and beyond.pdf
+Zhou, P., & Li, T. (2016). Construction of the landscape for multi-stable systems: Potential landscape, quasi-potential, A-type integral and beyond.. The Journal of Chemical Physics, 144(9), 094109–094109 https://doi.org/10.1063/1.4943096
+Energy landscape decomposition for cell differentiation with proliferation effect.pdf
+Shi, J., Aihara, K., Li, T., & Chen, L. (2022). Energy landscape decomposition for cell differentiation with proliferation effect.. National Science Review, 9(8), nwac116–nwac116 https://doi.org/10.1093/nsr/nwac116
+Fisher information regularization schemes for Wasserstein gradient flows.pdf
+Li, W., Lu, J., & Wang, L. (2020). Fisher information regularization schemes for Wasserstein gradient flows.. Journal of Computational Physics, 416, 109449–109449 https://doi.org/10.1016/j.jcp.2020.109449
+Self-Consistent Velocity Matching of Probability Flows.pdf
+Li, L., Hurault, S., & Solomon, J. (2023). Self-Consistent Velocity Matching of Probability Flows.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2301.13737
+A relay velocity model infers cell-dependent RNA velocity.pdf
+Li, S., Zhang, P., Chen, W., Ye, L., Brannan, K. W., Le, N. T., Abe, J. i., Cooke, J. P., & Wang, G. (2023). A relay velocity model infers cell-dependent RNA velocity.. Nature Biotechnology, 42(1), 99–108 https://doi.org/10.1038/s41587-023-01728-5
+TFvelo gene regulation inspired RNA velocity estimation.pdf
+Li, J., Pan, X., Yuan, Y., & Shen, H. B. (2024). TFvelo: gene regulation inspired RNA velocity estimation.. Nature Communications, 15(1), 1387–1387 https://doi.org/10.1038/s41467-024-45661-w
+Solving McKean-Vlasov Equation by deep learning particle method.pdf
+Li, Jingyuan, & Liu, Wei (2025). Solving McKean-Vlasov Equation by deep learning particle method. arXiv preprint arXiv:2501.00780.
+Action Matching Learning Stochastic Dynamics from Samples.pdf
+Neklyudov, K., Rob, B., Severo, D., & Makhzani, A. (2022). Action Matching: Learning Stochastic Dynamics from Samples.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2210.06662
+Quantifying Cell Fate Decisions for Differentiation and Reprogramming of a Human Stem Cell Network Landscape and Biological Paths.pdf
+Li, C., & Wang, J. (2013). Quantifying Cell Fate Decisions for Differentiation and Reprogramming of a Human Stem Cell Network: Landscape and Biological Paths.. PLoS Computational Biology, 9(8), e1003165–e1003165 https://doi.org/10.1371/journal.pcbi.1003165
+Governing equation discovery of a complex system from snapshots.pdf
+Zhu, Qunxi, & Zhao, Bolin, & Zhang, Jingdong, & Li, Peiyang, & Lin, Wei (2024). Governing equation discovery of a complex system from snapshots. arXiv preprint arXiv:2410.16694.
+Single-Cell Entropy to Quantify the Cellular Order Parameter from Single-Cell RNA-Seq Data.pdf
+Liu, J., Song, Y., & Lei, J. (2020). Single-Cell Entropy to Quantify the Cellular Order Parameter from Single-Cell RNA-Seq Data.. Biophysical Reviews and Letters, 15(01), 35–49 https://doi.org/10.1142/s1793048020500010
+Deep Generalized Schrödinger Bridge.pdf
+Liu, G. H., Chen, T., So, O., & Theodorou, E. A. (2022). Deep Generalized Schrödinger Bridge.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2209.09893
+Flow Straight and Fast Learning to Generate and Transfer Data with Rectified Flow.pdf
+Liu, X., Gong, C., & Liu, Q. (2022). Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2209.03003
+Quantifying critical states of complex diseases using single-sample dynamic network biomarkers.pdf
+Liu, X., Chang, X., Liu, R., Yu, X., Chen, L., & Aihara, K. (2017). Quantifying critical states of complex diseases using single-sample dynamic network biomarkers.. PLoS Computational Biology, 13(7), e1005633–e1005633 https://doi.org/10.1371/journal.pcbi.1005633
+Generalized Schrödinger Bridge Matching.pdf
+Liu, G. H., Lipman, Y., Nickel, M., Karrer, B., Theodorou, E. A., & Chen, R. T. Q. (2023). Generalized Schrödinger Bridge Matching.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2310.02233
+Score-based Neural Ordinary Differential Equations for Computing Mean Field Control Problems.pdf
+Mo Zhou, & Stanley Osher, & Wuchen Li (2024). Score-based Neural Ordinary Differential Equations for Computing Mean Field Control Problems. arXiv preprint arXiv:2409.16471.
+Inferring biological processes with intrinsic noise from cross-sectional data.pdf
+Maddu, Suryanarayana, & Chardès, Victor, & Shelley, Michael, & others (2024). Inferring biological processes with intrinsic noise from cross-sectional data. arXiv preprint arXiv:2410.07501.
+Unnormalized optimal transport.pdf
+Gangbo, W., Li, W., Osher, S., & Puthawala, M. (2019). Unnormalized optimal transport.. Journal of Computational Physics, 399, 108940–108940 https://doi.org/10.1016/j.jcp.2019.108940
+Umap Uniform manifold approximation and projection for dimension reduction.pdf
+McInnes, Leland, & Healy, John, & Melville, James (2018). Umap: Uniform manifold approximation and projection for dimension reduction. arXiv preprint arXiv:1802.03426.
+A Machine Learning Framework for Solving High-Dimensional Mean Field Game and Mean Field Control Problems.pdf
+Ruthotto, L., Osher, S., Li, W., Nurbekyan, L., & Fung, S. W. (2019). A Machine Learning Framework for Solving High-Dimensional Mean Field Game and Mean Field Control Problems.. arXiv (Cornell University) https://doi.org/10.1073/pnas.1922204117
+Meta Flow Matching Integrating Vector Fields on the Wasserstein Manifold.pdf
+Atanackovic, L., Zhang, X., Amos, B., Blanchette, M., Lee, L. J., Bengio, Y., Tong, A., & Neklyudov, K. (2024). Meta Flow Matching: Integrating Vector Fields on the Wasserstein Manifold.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2408.14608
+Multi-Modal and Multi-Attribute Generation of Single Cells with CFGen.pdf
+Palma, A., Richter, T., Zhang, H., Lubetzki, M., Tong, A., Dittadi, A., & Theis, F. J. (2024). Multi-Modal and Multi-Attribute Generation of Single Cells with CFGen.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2407.11734
+Plug-in estimation of Schrödinger bridges.pdf
+Pooladian, Aram-Alexandre, & Niles-Weed, Jonathan (2024). Plug-in estimation of Schrödinger bridges. arXiv preprint arXiv:2408.11686.
+Inference of cell state transitions and cell fate plasticity from single-cell with MARGARET.pdf
+Pandey, K., & Zafar, H. (2022). Inference of cell state transitions and cell fate plasticity from single-cell with MARGARET.. Nucleic Acids Research, 50(15), e86–e86 https://doi.org/10.1093/nar/gkac412
+Neural Optimal Transport with Lagrangian Costs.pdf
+Pooladian, A. A., Domingo-Enrich, C., Chen, R. T. Q., & Amos, B. (2024). Neural Optimal Transport with Lagrangian Costs.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2406.00288
+Taking census of physics.pdf
+Battiston, F., Musciotto, F., Wang, D., Barabási, A. a., Szell, M., & Sinatra, R. (2018). Taking census of physics.. Nature Reviews Physics, 1(1), 89–97 https://doi.org/10.1038/s42254-018-0005-3
+Steering Large Agent Populations using Mean-Field Schrodinger Bridges with Gaussian Mixture Models.pdf
+Rapakoulias, George, & Pedram, Ali Reza, & Tsiotras, Panagiotis (2025). Steering Large Agent Populations using Mean-Field Schrodinger Bridges with Gaussian Mixture Models. arXiv preprint arXiv:2503.23705.
+Zeroth-order Informed Fine-Tuning for Diffusion Model A Recursive Likelihood Ratio Optimizer.pdf
+Ren, Tao, & Zhang, Zishi, & Li, Zehao, & Jiang, Jingyang, & Qin, Shentao, & Li, Guanghao, & Li, Yan, & Zheng, Yi, & Li, Xinping, & Zhan, Min, & others (2025). Zeroth-order Informed Fine-Tuning for Diffusion Model: A Recursive Likelihood Ratio Optimizer. arXiv preprint arXiv:2502.00639.
+Generative modeling of single-cell time series with PRESCIENT enables prediction of cell trajectories with interventions.pdf
+Yeo, G. H. T., Saksena, S. D., & Gifford, D. K. (2021). Generative modeling of single-cell time series with PRESCIENT enables prediction of cell trajectories with interventions.. Nature Communications, 12(1), 3222–3222 https://doi.org/10.1038/s41467-021-23518-w
+Robust mapping of spatiotemporal trajectories and cell–cell interactions in healthy and diseased tissues.pdf
+Pham, D., Tan, X., Balderson, B., Xu, J., Grice, L. F., Yoon, S., Willis, E. F., Tran, M., Lam, P. Y., Raghubar, A. M., Croft, P. K. d., Lakhani, S. R., Vukovic, J., Ruitenberg, M. J., & Nguyen, Q. (2023). Robust mapping of spatiotemporal trajectories and cell–cell interactions in healthy and diseased tissues.. Nature Communications, 14(1), 7739–7739 https://doi.org/10.1038/s41467-023-43120-6
+Ultrastrong coupling between light and matter.pdf
+Kockum, A. F., Miranowicz, A., Liberato, S. D., Savasta, S., & Nori, F. (2019). Ultrastrong coupling between light and matter.. Nature Reviews Physics, 1(1), 19–40 https://doi.org/10.1038/s42254-018-0006-2
+A survey of the Schrödinger problem and some of its connections with optimal transport.pdf
+Léonard, C. (2013). A survey of the Schrödinger problem and some of its connections with optimal transport.. Discrete and Continuous Dynamical Systems, 34(4), 1533–1574 https://doi.org/10.3934/dcds.2014.34.1533
+SchNet A continuous-filter convolutional neural network for modeling quantum interactions.pdf
+Schütt, K. T., Kindermans, P. J., Sauceda, H. E., Chmiela, S., Tkatchenko, A., & Müller, K. R. (2017). SchNet: A continuous-filter convolutional neural network for modeling quantum interactions.. arXiv (Cornell University), 30, 992–1002 https://doi.org/10.48550/arxiv.1706.08566
+A new flow dynamic approach for Wasserstein gradient flows.pdf
+Cheng, Qing, & Liu, Qianqian, & Chen, Wenbin, & Shen, Jie (2024). A new flow dynamic approach for Wasserstein gradient flows. arXiv preprint arXiv:2406.14870.
+Simulation-free Schrödinger bridges via score and flow matching.pdf
+Tong, A., Malkin, N., Fatras, K., Atanackovic, L., Zhang, Y. L., Huguet, G., Wolf, G., & Bengio, Y. (2023). Simulation-free Schrödinger bridges via score and flow matching.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2307.03672
+Quantifying Waddington’s epigenetic landscape a comparison of single-cell potency measures.pdf
+Shi, J., Teschendorff, A. E., Chen, W., Chen, L., & Li, T. (2018). Quantifying Waddington’s epigenetic landscape: a comparison of single-cell potency measures.. Briefings in Bioinformatics, 21(1), 248–261 https://doi.org/10.1093/bib/bby093
+Self-Consistency of the Fokker-Planck Equation.pdf
+Shen, Z., Wang, Z., Kale, S., Ribeiro, A., Karbasi, A., & Hassani, H. (2022). Self-Consistency of the Fokker-Planck Equation.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2206.00860
+Entropy-dissipation Informed Neural Network for McKean-Vlasov Type PDEs.pdf
+Shen, Z., & Wang, Z. (2023). Entropy-dissipation Informed Neural Network for McKean-Vlasov Type PDEs.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2303.11205
+Joint trajectory and network inference via reference fitting.pdf
+Zhang, Stephen Y (2024). Joint trajectory and network inference via reference fitting. arXiv preprint arXiv:2409.06879.
+Spatial-linked alignment tool (SLAT) for aligning heterogenous slices.pdf
+Xia, C. R., Cao, Z. J., Tu, X., & Gao, G. (2023). Spatial-linked alignment tool (SLAT) for aligning heterogenous slices.. Nature Communications, 14(1), 7236–7236 https://doi.org/10.1038/s41467-023-43105-5
+Deep Unsupervised Learning using Nonequilibrium Thermodynamics.pdf
+Sohl‐Dickstein, J., Weiss, E. A., Maheswaranathan, N., & Ganguli, S. (2015). Deep Unsupervised Learning using Nonequilibrium Thermodynamics.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.1503.03585
+Diffusion Schrödinger Bridge Matching.pdf
+Shi, Y., Bortoli, V. D., Campbell, A., & Douc, R. (2023). Diffusion Schrödinger Bridge Matching.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2303.16852
+Score-Based Generative Modeling through Stochastic Differential Equations.pdf
+Song, Y., Sohl‐Dickstein, J., Kingma, D. P., Kumar, A., Ermon, S., & Poole, B. (2020). Score-Based Generative Modeling through Stochastic Differential Equations.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2011.13456
+Slingshot cell lineage and pseudotime inference for single-cell transcriptomics.pdf
+Street, K., Risso, D., Fletcher, R. B., Das, D., Ngai, J., Yosef, N., Purdom, E., & Dudoit, S. (2018). Slingshot: cell lineage and pseudotime inference for single-cell transcriptomics.. BMC Genomics, 19(1), 477–477 https://doi.org/10.1186/s12864-018-4772-0
+Optimal Transport for structured data with application on graphs.pdf
+Vayer, T., Chapel, L., Flamary, R., Tavenard, R., & Courty, N. (2018). Optimal Transport for structured data with application on graphs.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.1805.09114
+TrajectoryNet A Dynamic Optimal Transport Network for Modeling Cellular Dynamics.pdf
+Tong, A., Huang, J., Wolf, G., Dijk, D. v., & Krishnaswamy, S. (2020). TrajectoryNet: A Dynamic Optimal Transport Network for Modeling Cellular Dynamics.. PubMed, 119, 9526–9536 https://doi.org/10.48550/arxiv.2002.04461
+Entanglement certification from theory to experiment.pdf
+Friis, N., Vitagliano, G., Malik, M., & Huber, M. (2018). Entanglement certification from theory to experiment.. Nature Reviews Physics, 1(1), 72–87 https://doi.org/10.1038/s42254-018-0003-5
+Enhancing geometric representations for molecules with equivariant vector-scalar interactive message passing.pdf
+Wang, Y., Wang, T., Li, S., He, X., Li, M., Wang, Z., Zheng, N., Shao, B., & Liu, T. Y. (2024). Enhancing geometric representations for molecules with equivariant vector-scalar interactive message passing.. Nature Communications, 15(1), 313–313 https://doi.org/10.1038/s41467-023-43720-2
+Deep Generative Learning via Schrödinger Bridge.pdf
+Wang, G., Jiao, Y., Xu, Q., Wang, Y., & Yang, C. (2021). Deep Generative Learning via Schrödinger Bridge.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2106.10410
+Correlational Lagrangian Schr{ o}dinger odinger Bridge Learning Dynamics with Population-Level Regularization.pdf
+You, Yuning, & Zhou, Ruida, & Shen, Yang (2024). Correlational Lagrangian Schr{\"o}dinger odinger Bridge: Learning Dynamics with Population-Level Regularization. arXiv preprint arXiv:2402.10227.
+Topological Schrödinger Bridge Matching.pdf
+Yang, M. (2025). Topological Schrödinger Bridge Matching.. ArXiv.org https://doi.org/10.48550/arxiv.2504.04799
+Dissecting transition cells from single-cell transcriptome data through multiscale stochastic dynamics.pdf
+Zhou, P., Wang, S., Li, T., & Nie, Q. (2021). Dissecting transition cells from single-cell transcriptome data through multiscale stochastic dynamics.. Nature Communications, 12(1), 5609–5609 https://doi.org/10.1038/s41467-021-25548-w
+Parameterized wasserstein hamiltonian flow.pdf
+Wu, Hao, & Liu, Shu, & Ye, Xiaojing, & Zhou, Haomin (2023). Parameterized wasserstein hamiltonian flow. arXiv preprint arXiv:2306.00191.
+Parameterized Wasserstein Gradient Flow.pdf
+Jin, Yijie, & Liu, Shu, & Wu, Hao, & Ye, Xiaojing, & Zhou, Haomin (2024). Parameterized Wasserstein Gradient Flow. arXiv preprint arXiv:2404.19133.
+Learning high dimensional Wasserstein geodesics.pdf
+Liu, Shu, & Ma, Shaojun, & Chen, Yongxin, & Zha, Hongyuan, & Zhou, Haomin (2021). Learning high dimensional Wasserstein geodesics. arXiv preprint arXiv:2102.02992.
+On the mathematics of RNA velocity II algorithmic aspects.pdf
+Li, Tiejun, & Wang, Yizhuo, & Yang, Guoguo, & Zhou, Peijie (2023). On the mathematics of RNA velocity II: algorithmic aspects. arXiv preprint arXiv:2306.05707.
+Neural McKean-Vlasov Processes Distributional Dependence in Diffusion Processes.pdf
+Yang, H., Hasan, A., Ng, Y., & Tarokh, V. (2024). Neural McKean-Vlasov Processes: Distributional Dependence in Diffusion Processes.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2404.09402
+Learning collective multi-cellular dynamics from temporal scRNA-seq via a transformer-enhanced Neural SDE.pdf
+Jiang, Qi, & Zhang, Lei, & Li, Longquan, & Wan, Lin (2025). Learning collective multi-cellular dynamics from temporal scRNA-seq via a transformer-enhanced Neural SDE. arXiv preprint arXiv:2505.16492.
+Spatial transition tensor of single cells.pdf
+Zhou, P., Bocci, F., Li, T., & Nie, Q. (2024). Spatial transition tensor of single cells.. Nature Methods, 21(6), 1053–1062 https://doi.org/10.1038/s41592-024-02266-x
+Denoising Diffusion Bridge Models.pdf
+Zhou, L., Lou, A., Khanna, S., & Ermon, S. (2023). Denoising Diffusion Bridge Models.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2309.16948
+Branched Schr{ o}dinger Bridge Matching.pdf
+Tang, Sophia, & Zhang, Yinuo, & Tong, Alexander, & Chatterjee, Pranam (2025). Branched Schr{\"o}dinger Bridge Matching. arXiv preprint arXiv:2506.09007.
+Inference and analysis of cell-cell communication using CellChat.pdf
+Jin, S., Guerrero‐Juarez, C. F., Zhang, L., Chang, I., Ramos, R., Kuan, C. H., Myung, P., Plikus, M. V., & Nie, Q. (2021). Inference and analysis of cell-cell communication using CellChat.. Nature Communications, 12(1), 1088–1088 https://doi.org/10.1038/s41467-021-21246-9
+Grow AI virtual cells three data pillars and closed-loop learning.pdf
+Qian, L., Dong, Z., & Guo, T. (2025). Grow AI virtual cells: three data pillars and closed-loop learning.. Cell Research, 35(5), 319–321 https://doi.org/10.1038/s41422-025-01101-y
+CT-OT Flow Estimating Continuous-Time Dynamics from Discrete Temporal Snapshots.pdf
+Kawano, Keisuke, & Kutsuna, Takuro, & Hayashi, Naoki, & Esaki, Yasushi, & Tanaka, Hidenori (2025). CT-OT Flow: Estimating Continuous-Time Dynamics from Discrete Temporal Snapshots. arXiv preprint arXiv:2505.17354.
+Wasserstein Flow Matching Generative modeling over families of distributions.pdf
+Haviv, D., Pooladian, A. A., Pe’er, D., & Amos, B. (2024). Wasserstein Flow Matching: Generative modeling over families of distributions.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2411.00698
+Single-cell entropy for accurate estimation of differentiation potency from a cell’s transcriptome.pdf
+Teschendorff, A. E., & Enver, T. (2017). Single-cell entropy for accurate estimation of differentiation potency from a cell’s transcriptome.. Nature Communications, 8(1), 15599–15599 https://doi.org/10.1038/ncomms15599
+HJ-sampler A Bayesian sampler for inverse problems of a stochastic process by leveraging Hamilton-Jacobi PDEs and score-based generative models.pdf
+Meng, Tingwei, & Zou, Zongren, & Darbon, J{\'e}r{\^o}me, & Karniadakis, George Em (2024). HJ-sampler: A Bayesian sampler for inverse problems of a stochastic process by leveraging Hamilton-Jacobi PDEs and score-based generative models. arXiv preprint arXiv:2409.09614.
+Simulating Fokker-Planck equations via mean field control of score-based normalizing flows.pdf
+Zhou, Mo, & Osher, Stanley, & Li, Wuchen (2025). Simulating Fokker-Planck equations via mean field control of score-based normalizing flows. arXiv preprint arXiv:2506.05723.
+Flow Matching Meets Biology and Life Science A Survey.pdf
+Li, Zihao, & Zeng, Zhichen, & Lin, Xiao, & Fang, Feihao, & Qu, Yanru, & Xu, Zhe, & Liu, Zhining, & Ning, Xuying, & Wei, Tianxin, & Liu, Ge, & others (2025). Flow Matching Meets Biology and Life Science: A Survey. arXiv preprint arXiv:2507.17731.
+A computational pipeline for spatial mechano-transcriptomics.pdf
+Hallou, A., He, R., Simons, B. D., & Dumitrascu, B. (2025). A computational pipeline for spatial mechano-transcriptomics.. Nature Methods, 22(4), 737–750 https://doi.org/10.1038/s41592-025-02618-1
+Neural Ordinary Differential Equations.pdf
+Chen, R. T. Q., Rubanova, Y., Bettencourt, J., & Duvenaud, D. (2018). Neural Ordinary Differential Equations.. arXiv (Cornell University), 31, 6572–6583 https://doi.org/10.48550/arxiv.1806.07366
+ARTEMIS integrates autoencoders and Schrödinger Bridges to predict continuous dynamics of gene expression, cell population, and perturbation from time-series single-cell data.pdf
+Alatkar, S., & Wang, D. (2025). ARTEMIS integrates autoencoders and Schrödinger Bridges to predict continuous dynamics of gene expression, cell population, and perturbation from time-series single-cell data.. Bioinformatics, 41(Supplement_1), i189–i197 https://doi.org/10.1093/bioinformatics/btaf218
+Equilibrium flow From Snapshots to Dynamics.pdf
+Zhang, Yanbo, & Levin, Michael (2025). Equilibrium flow: From Snapshots to Dynamics. arXiv preprint arXiv:2509.17990.
+On the Translocation of Masses.pdf
+Kantorovich, L. V. (2006). On the Translocation of Masses.. Journal of Mathematical Sciences, 133(4), 1381–1382 https://doi.org/10.1007/s10958-006-0049-2
+Scalable Gradients for Stochastic Differential Equations.pdf
+Li, X., Wong, T. K. L., Chen, R. T. Q., & Duvenaud, D. (2020). Scalable Gradients for Stochastic Differential Equations.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2001.01328
+Efficient trajectory inference in wasserstein space using consecutive averaging.pdf
+Banerjee, Amartya, & Lee, Harlin, & Sharon, Nir, & Moosm{\~A}{\v{z}}ller, Caroline (2024). Efficient trajectory inference in wasserstein space using consecutive averaging. arXiv preprint arXiv:2405.19679.
+Learning Explicit Single-Cell Dynamics Using ODE Representations.pdf
+von Bassewitz, Jan-Philipp, & Pervez, Adeel, & Fumero, Marco, & Robinson, Matthew, & Karaletsos, Theofanis, & Locatello, Francesco (2025). Learning Explicit Single-Cell Dynamics Using ODE Representations. arXiv preprint arXiv:2510.02903.
+Partial alignment of multislice spatially resolved transcriptomics data.pdf
+Liu, X., Zeira, R., & Raphael, B. J. (2023). Partial alignment of multislice spatially resolved transcriptomics data.. Genome Research, 33(7), 1124–1132 https://doi.org/10.1101/gr.277670.123
+Stem cells a window of opportunity in low-dimensional EMT space.pdf
+Nie, Q. (2018). Stem cells: a window of opportunity in low-dimensional EMT space.. Oncotarget, 9(61), 31790–31791 https://doi.org/10.18632/oncotarget.25852
+Inference and multiscale model of epithelial-to-mesenchymal transition via single-cell transcriptomic data.pdf
+Sha, Y., Wang, S., Zhou, P., & Nie, Q. (2020). Inference and multiscale model of epithelial-to-mesenchymal transition via single-cell transcriptomic data.. Nucleic Acids Research, 48(17), 9505–9520 https://doi.org/10.1093/nar/gkaa725
+scEGOT single-cell trajectory inference framework based on entropic Gaussian mixture optimal transport.pdf
+Yachimura, T., Wang, H., Imoto, Y., Yoshida, M., Tasaki, S., Kojima, Y., Yabuta, Y., Saitou, M., & Hiraoka, Y. (2024). scEGOT: single-cell trajectory inference framework based on entropic Gaussian mixture optimal transport.. BMC Bioinformatics, 25(1), 388–388 https://doi.org/10.1186/s12859-024-05988-z
+Modeling single cell trajectory using forward-backward stochastic differential equations.pdf
+Zhang, K., Zhu, J., Kong, D., & Zhang, Z. (2024). Modeling single cell trajectory using forward-backward stochastic differential equations.. PLoS Computational Biology, 20(4), e1012015–e1012015 https://doi.org/10.1371/journal.pcbi.1012015
+Embryo mechanics cartography inference of 3D force atlases from fluorescence microscopy.pdf
+Ichbiah, S., Delbary, F., McDougall, A., Dumollard, R., & Turlier, H. (2023). Embryo mechanics cartography: inference of 3D force atlases from fluorescence microscopy.. Nature Methods, 20(12), 1989–1999 https://doi.org/10.1038/s41592-023-02084-7
+Generator Matching Generative modeling with arbitrary Markov processes.pdf
+Holderrieth, P., Havasi, M., Yim, J., Shaul, N., Gat, I., Jaakkola, T., Karrer, B., Chen, R. T. Q., & Lipman, Y. (2024). Generator Matching: Generative modeling with arbitrary Markov processes.. arXiv (Cornell University) https://doi.org/10.48550/arxiv.2410.20587

@@ -1,0 +1,49 @@
+{
+  "edges": [
+    {
+      "from": "Gene_1",
+      "to": "Gene_1",
+      "direction": "activate"
+    },
+    {
+      "from": "Gene_2",
+      "to": "Gene_1",
+      "direction": "inhibit"
+    },
+    {
+      "from": "Gene_2",
+      "to": "Gene_2",
+      "direction": "activate"
+    },
+    {
+      "from": "Gene_1",
+      "to": "Gene_2",
+      "direction": "inhibit"
+    },
+    {
+      "from": "Gene_1",
+      "to": "Gene_3",
+      "direction": "activate"
+    },
+    {
+      "from": "Gene_2",
+      "to": "Gene_4",
+      "direction": "activate"
+    },
+    {
+      "from": "Gene_4",
+      "to": "Gene_5",
+      "direction": "activate"
+    },
+    {
+      "from": "Gene_3",
+      "to": "Gene_5",
+      "direction": "activate"
+    }
+  ],
+  "growth_drivers": [
+    "Gene_3"
+  ],
+  "n_genes": 5,
+  "n_true_edges": 8
+}

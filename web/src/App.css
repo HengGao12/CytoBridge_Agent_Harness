@@ -1,0 +1,6 @@
+/* Intentionally empty.
+ *
+ * Legacy Vite-template styles previously lived here and conflicted with the
+ * application's centered #root max-width. The active design system is in
+ * `index.css`. Safe to delete this file once removed from git.
+ */

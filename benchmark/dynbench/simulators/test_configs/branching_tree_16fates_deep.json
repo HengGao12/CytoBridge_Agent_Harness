@@ -1,0 +1,24 @@
+{
+  "schema_version": "dynbench_topology_spec_v1",
+  "topology_family": "branching_tree",
+  "n_fates": 16,
+  "n_time_bins": 12,
+  "n_init_cells": 4000,
+  "n_reporters_per_tf": 2,
+  "n_confounders": 5,
+  "n_noise_genes": 6,
+  "growth_type": "interaction",
+  "noise_sigma": 0.15,
+  "t_end": 18.0,
+  "holdout_bins": [
+    4,
+    5,
+    6
+  ],
+  "feedback_strength": 0.0,
+  "cross_branch_coupling": 0.0,
+  "asymmetry_strength": 0.3,
+  "density_bias": "high",
+  "transient_state_depth": 2,
+  "notes": "16-fate deep tree (4 toggle layers). ~35 genes total. Tests M5/M6 on large GRN with dense reporters and confounders. Extreme-level complexity."
+}

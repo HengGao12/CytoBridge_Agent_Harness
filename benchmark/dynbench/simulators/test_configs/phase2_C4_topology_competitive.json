@@ -1,0 +1,23 @@
+{
+  "schema_version": "dynbench_topology_spec_v1",
+  "topology_family": "competitive_multistable",
+  "n_fates": 4,
+  "n_time_bins": 8,
+  "n_init_cells": 2500,
+  "n_reporters_per_tf": 2,
+  "n_confounders": 4,
+  "n_noise_genes": 3,
+  "growth_type": "multi",
+  "noise_sigma": 0.12,
+  "t_end": 14.0,
+  "holdout_bins": [
+    2,
+    3
+  ],
+  "feedback_strength": 0.8,
+  "cross_branch_coupling": 0.0,
+  "asymmetry_strength": 0.0,
+  "density_bias": "medium",
+  "transient_state_depth": 1,
+  "notes": "Phase2 C4: topology COMPETITIVE. 4 fates, competitive multistable. Tests effect of multi-stability on prediction. scenario_seed=42."
+}

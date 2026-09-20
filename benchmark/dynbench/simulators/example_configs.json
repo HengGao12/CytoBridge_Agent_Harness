@@ -1,0 +1,72 @@
+[
+  {
+    "name": "simple_bifurcation",
+    "seed": 42,
+    "n_fates": 2,
+    "n_reporters_per_tf": 1,
+    "n_confounders": 1,
+    "n_noise_genes": 0,
+    "growth_type": "single",
+    "noise_sigma": 0.10,
+    "n_time_bins": 6,
+    "holdout_bins": [2, 3],
+    "n_init_cells": 1500,
+    "t_end": 10.0
+  },
+  {
+    "name": "dense_reporters",
+    "seed": 43,
+    "n_fates": 2,
+    "n_reporters_per_tf": 2,
+    "n_confounders": 2,
+    "n_noise_genes": 1,
+    "growth_type": "multi",
+    "noise_sigma": 0.15,
+    "n_time_bins": 8,
+    "holdout_bins": [2, 3],
+    "n_init_cells": 2000,
+    "t_end": 12.0
+  },
+  {
+    "name": "quad_tree_low_noise",
+    "seed": 44,
+    "n_fates": 4,
+    "n_reporters_per_tf": 1,
+    "n_confounders": 2,
+    "n_noise_genes": 0,
+    "growth_type": "multi",
+    "noise_sigma": 0.08,
+    "n_time_bins": 8,
+    "holdout_bins": [2, 3],
+    "n_init_cells": 2000,
+    "t_end": 12.0
+  },
+  {
+    "name": "quad_tree_high_noise",
+    "seed": 45,
+    "n_fates": 4,
+    "n_reporters_per_tf": 1,
+    "n_confounders": 3,
+    "n_noise_genes": 2,
+    "growth_type": "multi",
+    "noise_sigma": 0.20,
+    "n_time_bins": 10,
+    "holdout_bins": [3, 4],
+    "n_init_cells": 2500,
+    "t_end": 14.0
+  },
+  {
+    "name": "eight_fate_deep",
+    "seed": 46,
+    "n_fates": 8,
+    "n_reporters_per_tf": 1,
+    "n_confounders": 4,
+    "n_noise_genes": 2,
+    "growth_type": "interaction",
+    "noise_sigma": 0.15,
+    "n_time_bins": 10,
+    "holdout_bins": [3, 4, 5],
+    "n_init_cells": 2500,
+    "t_end": 14.0
+  }
+]

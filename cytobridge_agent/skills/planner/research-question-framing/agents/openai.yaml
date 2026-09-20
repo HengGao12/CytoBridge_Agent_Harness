@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Question Framing"
+  short_description: "Sharpen scientific problems before methods"
+  default_prompt: "Use $research-question-framing to turn a vague idea into one narrow, well-defined biology-journal or ML-topconf research question for non-perturbation multi-timepoint snapshot single-cell omics, then give 1-5 feasible direction families ranked by feasibility."

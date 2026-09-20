@@ -1,0 +1,142 @@
+[
+  {
+    "gene_idx": 0,
+    "perturbation_strength": -5.0,
+    "control_z_score": 0.0,
+    "perturbed_z_score": -5.0,
+    "intervention_space": "gene_space",
+    "control": {
+      "B": 0.4756190476190476,
+      "C": 0.5243809523809524
+    },
+    "perturbed": {
+      "B": 0.9912380952380953,
+      "C": 0.00876190476190476
+    },
+    "control_proportions": {
+      "B": 0.4756190476190476,
+      "C": 0.5243809523809524
+    },
+    "perturbed_proportions": {
+      "B": 0.9912380952380953,
+      "C": 0.00876190476190476
+    },
+    "delta": {
+      "B": 0.5156190476190476,
+      "C": -0.5156190476190476
+    },
+    "gene_name": "Gene_1"
+  },
+  {
+    "gene_idx": 1,
+    "perturbation_strength": -5.0,
+    "control_z_score": 0.0,
+    "perturbed_z_score": -5.0,
+    "intervention_space": "gene_space",
+    "control": {
+      "B": 0.49923809523809526,
+      "C": 0.5007619047619047
+    },
+    "perturbed": {
+      "B": 0.007761904761904762,
+      "C": 0.9922380952380951
+    },
+    "control_proportions": {
+      "B": 0.49923809523809526,
+      "C": 0.5007619047619047
+    },
+    "perturbed_proportions": {
+      "B": 0.007761904761904762,
+      "C": 0.9922380952380951
+    },
+    "delta": {
+      "B": -0.4914761904761905,
+      "C": 0.4914761904761904
+    },
+    "gene_name": "Gene_2"
+  },
+  {
+    "gene_idx": 2,
+    "perturbation_strength": -5.0,
+    "control_z_score": 0.0,
+    "perturbed_z_score": -5.0,
+    "intervention_space": "gene_space",
+    "control": {
+      "B": 0.4942857142857143,
+      "C": 0.5057142857142857
+    },
+    "perturbed": {
+      "B": 0.4942857142857143,
+      "C": 0.5057142857142857
+    },
+    "control_proportions": {
+      "B": 0.4942857142857143,
+      "C": 0.5057142857142857
+    },
+    "perturbed_proportions": {
+      "B": 0.4942857142857143,
+      "C": 0.5057142857142857
+    },
+    "delta": {
+      "B": 0.0,
+      "C": 0.0
+    },
+    "gene_name": "Gene_3"
+  },
+  {
+    "gene_idx": 3,
+    "perturbation_strength": -5.0,
+    "control_z_score": 0.0,
+    "perturbed_z_score": -5.0,
+    "intervention_space": "gene_space",
+    "control": {
+      "B": 0.4942857142857143,
+      "C": 0.5057142857142857
+    },
+    "perturbed": {
+      "B": 0.4942857142857143,
+      "C": 0.5057142857142857
+    },
+    "control_proportions": {
+      "B": 0.4942857142857143,
+      "C": 0.5057142857142857
+    },
+    "perturbed_proportions": {
+      "B": 0.4942857142857143,
+      "C": 0.5057142857142857
+    },
+    "delta": {
+      "B": 0.0,
+      "C": 0.0
+    },
+    "gene_name": "Gene_4"
+  },
+  {
+    "gene_idx": 4,
+    "perturbation_strength": -5.0,
+    "control_z_score": 0.0,
+    "perturbed_z_score": -5.0,
+    "intervention_space": "gene_space",
+    "control": {
+      "B": 0.4942857142857143,
+      "C": 0.5057142857142857
+    },
+    "perturbed": {
+      "B": 0.4942857142857143,
+      "C": 0.5057142857142857
+    },
+    "control_proportions": {
+      "B": 0.4942857142857143,
+      "C": 0.5057142857142857
+    },
+    "perturbed_proportions": {
+      "B": 0.4942857142857143,
+      "C": 0.5057142857142857
+    },
+    "delta": {
+      "B": 0.0,
+      "C": 0.0
+    },
+    "gene_name": "Gene_5"
+  }
+]

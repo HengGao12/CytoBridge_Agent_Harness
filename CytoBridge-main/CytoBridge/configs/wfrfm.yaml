@@ -1,0 +1,65 @@
+model:
+  components: ['velocity', 'growth']
+  velocity_net:
+    hidden_dim: 256
+    n_layers: 5
+    residual: false
+  growth_net:
+    hidden_dim: 256
+    n_layers: 5
+    residual: false
+
+ckpt_dir: 'results'
+
+training:
+  defaults:
+    lr: 0.001
+    sigma: 0.0
+    batch_size: 256
+    delta: auto
+    delta_quantile: 0.9
+    delta_target_angle: 1.0
+    delta_sample_size: 512
+    delta_pair_samples: 20000
+    chunk_size: 1000
+    alpha_regm: 1.0
+    use_mini_batch_wfr: true
+    epsilon: 1.0e-08
+
+  plan:
+    - name: "Train_WFRFM"
+      mode: "flow_matching"
+      lr: 0.001
+      epochs: 3000
+      sigma: 0.0
+      delta: auto
+      delta_quantile: 0.9
+      delta_target_angle: 1.0
+      delta_sample_size: 512
+      delta_pair_samples: 20000
+      train_strategy: "v+g"
+      batch_size: 256
+      scheduler_type: cosine
+      cosine_epochs: 3000
+      save_strategy: "best"
+      flow_matching:
+        backend: "wfrfm"
+        lambda_penalty: 0.0
+        coupling:
+          delta: auto
+          delta_quantile: 0.9
+          delta_target_angle: 1.0
+          delta_sample_size: 512
+          delta_pair_samples: 20000
+          use_mini_batch: true
+          chunk_size: 1000
+          alpha_regm: 1.0
+          reg: null
+          reg_m: null
+          epsilon: 1.0e-08
+        path:
+          delta: auto
+          sigma: 0.0
+          epsilon: 1.0e-08
+        mass:
+          kind: "wfr_semicoupling"

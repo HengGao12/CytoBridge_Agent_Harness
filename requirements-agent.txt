@@ -1,0 +1,65 @@
+# LangGraph Agent dependencies
+langgraph>=0.2
+langgraph-checkpoint-sqlite>=3.0.1
+langchain>=0.3
+langchain-openai>=0.2
+langchain-community>=0.3
+
+# HTTP client (openai-compatible base_url support)
+httpx>=0.24
+beautifulsoup4>=4.12
+lxml>=5.0
+trafilatura>=1.9
+openai>=1.0
+
+# Schemas and validation
+pydantic>=2.0,<3
+
+# Config and serialization
+pyyaml>=6
+
+# PDF text extraction (offline RAG for npj_review.pdf)
+pdfplumber>=0.11
+pypdf>=4.0
+PyMuPDF>=1.24
+cairosvg>=2.7
+Pillow>=10.0
+
+# BM25 retriever (offline, no embedding model needed)
+rank-bm25>=0.2
+
+# Literature RAG dependencies
+sentence-transformers>=3.0
+spacy>=3.8
+
+# Markdown to HTML conversion
+markdown>=3.4
+
+# Optional: gene set enrichment (local gmt files)
+# gseapy>=1.0  # uncomment if needed
+
+# Visualization (headless compatible)
+matplotlib>=3.5
+plotly>=5.0
+kaleido>=1.2  # For static image export from plotly (requires Chrome runtime)
+zstandard>=0.22  # For benchmark artifact .tar.zst install/build support
+
+# Core single-cell
+scanpy>=1.9
+anndata>=0.8
+
+# CytoBridge dependencies (inherited from CytoBridge-main)
+torch>=2.0
+numpy<2
+scipy
+scikit-learn
+tqdm
+func_timeout
+rich
+
+# Web UI dependencies
+fastapi>=0.115.0
+uvicorn[standard]>=0.34.0
+python-multipart>=0.0.9
+websockets>=12.0
+datetime

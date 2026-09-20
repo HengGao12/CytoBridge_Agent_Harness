@@ -1,0 +1,26 @@
+{
+  "schema_version": "dynbench_topology_spec_v1",
+  "topology_family": "competitive_multistable",
+  "n_fates": 8,
+  "n_time_bins": 14,
+  "n_init_cells": 5000,
+  "n_reporters_per_tf": 3,
+  "n_confounders": 6,
+  "n_noise_genes": 8,
+  "growth_type": "interaction",
+  "noise_sigma": 0.2,
+  "t_end": 24.0,
+  "holdout_bins": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "feedback_strength": 0.9,
+  "cross_branch_coupling": 0.7,
+  "asymmetry_strength": 0.2,
+  "density_bias": "high",
+  "transient_state_depth": 3,
+  "notes": "8-fate competitive multistable EXTREME. ~46 genes, high noise, 5-bid holdout gap, very dense GRN. Ultimate test of all 6 metrics. Agent scoring 0.5+ here has genuine complex dynamics modeling capability."
+}

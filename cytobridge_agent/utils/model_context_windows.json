@@ -1,0 +1,107 @@
+{
+  "source": "Vendored snapshot derived from provider/model metadata reviewed on 2026-04-30. Update this file when supported model contracts change.",
+  "providers": {
+    "openai": {
+      "gpt-5.5": 256000,
+      "gpt-5.5-pro": 256000,
+      "gpt-5.4": 1050000,
+      "gpt-5.4-mini": 400000,
+      "gpt-5.3-codex": 400000,
+      "gpt-5.2": 400000,
+      "gpt-4.1": 1047576,
+      "gpt-4o": 128000,
+      "gpt-4o-mini": 128000,
+      "o4-mini": 200000,
+      "o3": 200000,
+      "o3-mini": 200000
+    },
+    "openai-codex": {
+      "gpt-5.5": 256000,
+      "gpt-5.5-pro": 256000,
+      "gpt-5.4": 1050000,
+      "gpt-5.4-mini": 400000,
+      "gpt-5.3-codex": 400000,
+      "gpt-5.2": 400000
+    },
+    "openrouter": {
+      "openai/gpt-5.5": 256000,
+      "openai/gpt-5.4": 1050000,
+      "openai/gpt-5.4-mini": 400000,
+      "openai/gpt-5.3-codex": 400000,
+      "anthropic/claude-opus-4.7": 1000000,
+      "anthropic/claude-sonnet-4.6": 1000000,
+      "anthropic/claude-sonnet-4.5": 1000000,
+      "moonshotai/kimi-k2.6": 262144,
+      "xiaomi/mimo-v2.5-pro": 1048576,
+      "z-ai/glm-5.1": 202752,
+      "google/gemini-3.1-pro-preview": 1048576,
+      "qwen/qwen3.6-plus": 1000000,
+      "minimax/minimax-m2.7": 204800
+    },
+    "xiaomi": {
+      "mimo-v2.5-pro": 1048576,
+      "mimo-v2.5": 1048576,
+      "mimo-v2-pro": 1000000,
+      "mimo-v2-omni": 256000,
+      "mimo-v2-flash": 256000
+    },
+    "deepseek": {
+      "deepseek-v4-pro": 1000000,
+      "deepseek-v4-flash": 1000000,
+      "deepseek-chat": 1000000,
+      "deepseek-reasoner": 1000000
+    },
+    "zai": {
+      "glm-5.1": 200000,
+      "glm-5": 204800,
+      "glm-5v-turbo": 200000,
+      "glm-5-turbo": 200000,
+      "glm-4.7": 204800,
+      "glm-4.5": 131072
+    },
+    "kimi-for-coding": {
+      "kimi-k2.6": 262144,
+      "kimi-k2.5": 262144,
+      "kimi-k2-thinking": 262144,
+      "kimi-k2-thinking-turbo": 262144,
+      "kimi-k2-turbo-preview": 262144
+    },
+    "alibaba": {
+      "qwen3.6-plus": 1000000,
+      "qwen3.5-plus": 1000000,
+      "qwen3-coder-plus": 1048576
+    },
+    "nvidia": {
+      "nvidia/nemotron-3-super-120b-a12b": 262144,
+      "nvidia/nemotron-3-nano-30b-a3b": 131072,
+      "deepseek-ai/deepseek-v3.2": 163840,
+      "openai/gpt-oss-120b": 128000
+    },
+    "xai": {
+      "grok-4.20-0309-reasoning": 2000000,
+      "grok-4.20-0309-non-reasoning": 2000000,
+      "grok-4": 256000,
+      "grok-code-fast-1": 256000
+    },
+    "vercel": {
+      "openai/gpt-5.4": 1050000,
+      "openai/gpt-5.4-mini": 400000,
+      "anthropic/claude-sonnet-4.6": 1000000,
+      "moonshotai/kimi-k2.6": 262000,
+      "zai/glm-5.1": 202752,
+      "xai/grok-4.20-reasoning": 2000000
+    },
+    "google": {
+      "gemini-3.1-pro-preview": 1048576,
+      "gemini-3-pro-preview": 1000000,
+      "gemini-3-flash-preview": 1048576,
+      "gemini-2.5-pro": 1048576
+    },
+    "google-gemini-cli": {
+      "gemini-3.1-pro-preview": 1048576,
+      "gemini-3-pro-preview": 1000000,
+      "gemini-3-flash-preview": 1048576,
+      "gemini-2.5-pro": 1048576
+    }
+  }
+}

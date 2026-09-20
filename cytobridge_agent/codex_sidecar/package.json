@@ -1,0 +1,17 @@
+{
+  "name": "cytobridge-codex-sidecar",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Local Codex OAuth sidecar for CytoBridge-agent",
+  "main": "./server.mjs",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "@mariozechner/pi-ai": "0.54.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}

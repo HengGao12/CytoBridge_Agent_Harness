@@ -1,0 +1,25 @@
+{
+  "schema_version": "dynbench_topology_spec_v1",
+  "topology_family": "competitive_multistable",
+  "n_fates": 4,
+  "n_time_bins": 12,
+  "n_init_cells": 3500,
+  "n_reporters_per_tf": 2,
+  "n_confounders": 3,
+  "n_noise_genes": 4,
+  "growth_type": "multi",
+  "noise_sigma": 0.22,
+  "t_end": 20.0,
+  "holdout_bins": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "feedback_strength": 0.8,
+  "cross_branch_coupling": 0.6,
+  "asymmetry_strength": 0.0,
+  "density_bias": "high",
+  "transient_state_depth": 2,
+  "notes": "4-fate competitive multistable with strong mutual inhibition. 4-bid holdout gap tests long-range interpolation. High noise + dense GRN stress-tests M1/M3."
+}

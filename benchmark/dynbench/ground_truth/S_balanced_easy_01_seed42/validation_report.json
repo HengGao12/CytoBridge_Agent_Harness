@@ -1,0 +1,51 @@
+{
+  "scenario": "S_balanced_easy_01_seed42",
+  "difficulty": "balanced_easy_01",
+  "seed": 42,
+  "n_genes": 5,
+  "n_fates": 2,
+  "n_cells": 5022,
+  "n_edges": 8,
+  "classifier_accuracy": 0.9992,
+  "validation": {
+    "anti_heuristic_passed": "True",
+    "max_driver_time_corr": 0.4761,
+    "max_confounder_time_corr": 0.9451,
+    "driver_corrs": {
+      "Gene_3": 0.4761
+    },
+    "confounder_corrs": {
+      "Gene_5": 0.9451
+    },
+    "all_time_corrs": {
+      "Gene_5": 0.9451,
+      "Gene_3": 0.4761,
+      "Gene_4": 0.4662,
+      "Gene_1": 0.3375,
+      "Gene_2": 0.3269
+    },
+    "growth_drivers": [
+      "Gene_3"
+    ],
+    "confounders": [
+      "Gene_5"
+    ]
+  },
+  "paths": {
+    "ground_truth": "benchmark/dynbench/ground_truth/S_balanced_easy_01_seed42",
+    "task_package": "benchmark/dynbench/task_packages/S_balanced_easy_01_seed42"
+  },
+  "gt_check": {
+    "passed": true,
+    "total_score": 1.0,
+    "per_metric": {
+      "M1_velocity": 1.0,
+      "M2_growth": 1.0,
+      "M3_distribution": 1.0,
+      "M4_fate": 1.0,
+      "M5_perturbation": 1.0,
+      "M6_grn": 1.0
+    },
+    "issues": []
+  }
+}

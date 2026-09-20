@@ -1,0 +1,368 @@
+[
+  {
+    "name": "balanced2_easy_01",
+    "scenario_name": "S_balanced2_easy_01_seed1042",
+    "seed": 1042,
+    "n_fates": 2,
+    "n_reporters_per_tf": 1,
+    "n_confounders": 1,
+    "n_noise_genes": 0,
+    "growth_type": "single",
+    "noise_sigma": 0.1,
+    "n_time_bins": 6,
+    "holdout_bins": [
+      2,
+      4
+    ],
+    "n_init_cells": 700,
+    "t_end": 10.0
+  },
+  {
+    "name": "balanced2_easy_02",
+    "scenario_name": "S_balanced2_easy_02_seed1043",
+    "seed": 1043,
+    "n_fates": 2,
+    "n_reporters_per_tf": 1,
+    "n_confounders": 1,
+    "n_noise_genes": 0,
+    "growth_type": "single",
+    "noise_sigma": 0.11,
+    "n_time_bins": 6,
+    "holdout_bins": [
+      2,
+      4
+    ],
+    "n_init_cells": 750,
+    "t_end": 10.0
+  },
+  {
+    "name": "balanced2_easy_03",
+    "scenario_name": "S_balanced2_easy_03_seed1044",
+    "seed": 1044,
+    "n_fates": 2,
+    "n_reporters_per_tf": 1,
+    "n_confounders": 1,
+    "n_noise_genes": 1,
+    "growth_type": "single",
+    "noise_sigma": 0.11,
+    "n_time_bins": 6,
+    "holdout_bins": [
+      2,
+      4
+    ],
+    "n_init_cells": 750,
+    "t_end": 10.0
+  },
+  {
+    "name": "balanced2_easy_04",
+    "scenario_name": "S_balanced2_easy_04_seed1045",
+    "seed": 1045,
+    "n_fates": 2,
+    "n_reporters_per_tf": 1,
+    "n_confounders": 2,
+    "n_noise_genes": 0,
+    "growth_type": "single",
+    "noise_sigma": 0.12,
+    "n_time_bins": 6,
+    "holdout_bins": [
+      2,
+      4
+    ],
+    "n_init_cells": 800,
+    "t_end": 10.0
+  },
+  {
+    "name": "balanced2_easy_05",
+    "scenario_name": "S_balanced2_easy_05_seed1046",
+    "seed": 1046,
+    "n_fates": 2,
+    "n_reporters_per_tf": 2,
+    "n_confounders": 1,
+    "n_noise_genes": 0,
+    "growth_type": "multi",
+    "noise_sigma": 0.12,
+    "n_time_bins": 6,
+    "holdout_bins": [
+      2,
+      4
+    ],
+    "n_init_cells": 800,
+    "t_end": 10.0
+  },
+  {
+    "name": "balanced2_medium_01",
+    "scenario_name": "S_balanced2_medium_01_seed1142",
+    "seed": 1142,
+    "n_fates": 4,
+    "n_reporters_per_tf": 1,
+    "n_confounders": 2,
+    "n_noise_genes": 0,
+    "growth_type": "multi",
+    "noise_sigma": 0.12,
+    "n_time_bins": 7,
+    "holdout_bins": [
+      2,
+      4
+    ],
+    "n_init_cells": 850,
+    "t_end": 11.0
+  },
+  {
+    "name": "balanced2_medium_02",
+    "scenario_name": "S_balanced2_medium_02_seed1143",
+    "seed": 1143,
+    "n_fates": 4,
+    "n_reporters_per_tf": 1,
+    "n_confounders": 2,
+    "n_noise_genes": 1,
+    "growth_type": "multi",
+    "noise_sigma": 0.13,
+    "n_time_bins": 7,
+    "holdout_bins": [
+      2,
+      4
+    ],
+    "n_init_cells": 900,
+    "t_end": 11.0
+  },
+  {
+    "name": "balanced2_medium_03",
+    "scenario_name": "S_balanced2_medium_03_seed1144",
+    "seed": 1144,
+    "n_fates": 4,
+    "n_reporters_per_tf": 2,
+    "n_confounders": 2,
+    "n_noise_genes": 0,
+    "growth_type": "multi",
+    "noise_sigma": 0.13,
+    "n_time_bins": 8,
+    "holdout_bins": [
+      2,
+      5
+    ],
+    "n_init_cells": 900,
+    "t_end": 12.0
+  },
+  {
+    "name": "balanced2_medium_04",
+    "scenario_name": "S_balanced2_medium_04_seed1145",
+    "seed": 1145,
+    "n_fates": 4,
+    "n_reporters_per_tf": 2,
+    "n_confounders": 3,
+    "n_noise_genes": 1,
+    "growth_type": "interaction",
+    "noise_sigma": 0.14,
+    "n_time_bins": 8,
+    "holdout_bins": [
+      2,
+      5
+    ],
+    "n_init_cells": 950,
+    "t_end": 12.0
+  },
+  {
+    "name": "balanced2_medium_05",
+    "scenario_name": "S_balanced2_medium_05_seed1146",
+    "seed": 1146,
+    "n_fates": 4,
+    "n_reporters_per_tf": 2,
+    "n_confounders": 3,
+    "n_noise_genes": 2,
+    "growth_type": "interaction",
+    "noise_sigma": 0.14,
+    "n_time_bins": 8,
+    "holdout_bins": [
+      2,
+      5
+    ],
+    "n_init_cells": 950,
+    "t_end": 12.0
+  },
+  {
+    "name": "balanced2_hard_01",
+    "scenario_name": "S_balanced2_hard_01_seed1242",
+    "seed": 1242,
+    "n_fates": 8,
+    "n_reporters_per_tf": 1,
+    "n_confounders": 3,
+    "n_noise_genes": 1,
+    "growth_type": "multi",
+    "noise_sigma": 0.14,
+    "n_time_bins": 8,
+    "holdout_bins": [
+      3,
+      5
+    ],
+    "n_init_cells": 950,
+    "t_end": 12.0
+  },
+  {
+    "name": "balanced2_hard_02",
+    "scenario_name": "S_balanced2_hard_02_seed1243",
+    "seed": 1243,
+    "n_fates": 8,
+    "n_reporters_per_tf": 1,
+    "n_confounders": 4,
+    "n_noise_genes": 2,
+    "growth_type": "interaction",
+    "noise_sigma": 0.15,
+    "n_time_bins": 8,
+    "holdout_bins": [
+      3,
+      5
+    ],
+    "n_init_cells": 1000,
+    "t_end": 12.0
+  },
+  {
+    "name": "balanced2_hard_03",
+    "scenario_name": "S_balanced2_hard_03_seed1244",
+    "seed": 1244,
+    "n_fates": 8,
+    "n_reporters_per_tf": 2,
+    "n_confounders": 3,
+    "n_noise_genes": 2,
+    "growth_type": "interaction",
+    "noise_sigma": 0.15,
+    "n_time_bins": 9,
+    "holdout_bins": [
+      3,
+      5
+    ],
+    "n_init_cells": 1000,
+    "t_end": 13.0
+  },
+  {
+    "name": "balanced2_hard_04",
+    "scenario_name": "S_balanced2_hard_04_seed1245",
+    "seed": 1245,
+    "n_fates": 8,
+    "n_reporters_per_tf": 2,
+    "n_confounders": 4,
+    "n_noise_genes": 3,
+    "growth_type": "interaction",
+    "noise_sigma": 0.16,
+    "n_time_bins": 9,
+    "holdout_bins": [
+      3,
+      5
+    ],
+    "n_init_cells": 1050,
+    "t_end": 13.0
+  },
+  {
+    "name": "balanced2_hard_05",
+    "scenario_name": "S_balanced2_hard_05_seed1246",
+    "seed": 1246,
+    "n_fates": 8,
+    "n_reporters_per_tf": 2,
+    "n_confounders": 5,
+    "n_noise_genes": 3,
+    "growth_type": "interaction",
+    "noise_sigma": 0.16,
+    "n_time_bins": 9,
+    "holdout_bins": [
+      3,
+      5,
+      6
+    ],
+    "n_init_cells": 1050,
+    "t_end": 13.0
+  },
+  {
+    "name": "balanced2_extreme_01",
+    "scenario_name": "S_balanced2_extreme_01_seed1342",
+    "seed": 1342,
+    "n_fates": 16,
+    "n_reporters_per_tf": 1,
+    "n_confounders": 4,
+    "n_noise_genes": 2,
+    "growth_type": "interaction",
+    "noise_sigma": 0.16,
+    "n_time_bins": 9,
+    "holdout_bins": [
+      3,
+      5,
+      6
+    ],
+    "n_init_cells": 850,
+    "t_end": 13.0
+  },
+  {
+    "name": "balanced2_extreme_02",
+    "scenario_name": "S_balanced2_extreme_02_seed1343",
+    "seed": 1343,
+    "n_fates": 16,
+    "n_reporters_per_tf": 1,
+    "n_confounders": 4,
+    "n_noise_genes": 3,
+    "growth_type": "interaction",
+    "noise_sigma": 0.17,
+    "n_time_bins": 9,
+    "holdout_bins": [
+      3,
+      5,
+      6
+    ],
+    "n_init_cells": 900,
+    "t_end": 13.0
+  },
+  {
+    "name": "balanced2_extreme_03",
+    "scenario_name": "S_balanced2_extreme_03_seed1344",
+    "seed": 1344,
+    "n_fates": 16,
+    "n_reporters_per_tf": 1,
+    "n_confounders": 5,
+    "n_noise_genes": 3,
+    "growth_type": "interaction",
+    "noise_sigma": 0.18,
+    "n_time_bins": 10,
+    "holdout_bins": [
+      3,
+      5,
+      7
+    ],
+    "n_init_cells": 900,
+    "t_end": 14.0
+  },
+  {
+    "name": "balanced2_extreme_04",
+    "scenario_name": "S_balanced2_extreme_04_seed1345",
+    "seed": 1345,
+    "n_fates": 16,
+    "n_reporters_per_tf": 2,
+    "n_confounders": 4,
+    "n_noise_genes": 3,
+    "growth_type": "interaction",
+    "noise_sigma": 0.18,
+    "n_time_bins": 10,
+    "holdout_bins": [
+      3,
+      5,
+      7
+    ],
+    "n_init_cells": 950,
+    "t_end": 14.0
+  },
+  {
+    "name": "balanced2_extreme_05",
+    "scenario_name": "S_balanced2_extreme_05_seed1346",
+    "seed": 1346,
+    "n_fates": 16,
+    "n_reporters_per_tf": 2,
+    "n_confounders": 5,
+    "n_noise_genes": 4,
+    "growth_type": "interaction",
+    "noise_sigma": 0.19,
+    "n_time_bins": 10,
+    "holdout_bins": [
+      3,
+      5,
+      7
+    ],
+    "n_init_cells": 950,
+    "t_end": 14.0
+  }
+]

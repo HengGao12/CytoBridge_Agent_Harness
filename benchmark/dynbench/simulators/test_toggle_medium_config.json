@@ -1,0 +1,11 @@
+{
+  "name": "Test_Toggle_Medium",
+  "scenario_name": "Test_Toggle_Medium",
+  "topology": "toggle_switch_3gene",
+  "seed": 42,
+  "noise_sigma": 0.12,
+  "n_time_bins": 8,
+  "holdout_bins": [2, 3],
+  "n_init_cells": 2000,
+  "t_end": 12.0
+}

@@ -1,0 +1,25 @@
+{
+  "name": "gene_gradient_35g_8f",
+  "schema_version": "dynbench_v2",
+  "group": "gene_gradient",
+  "difficulty": "hard",
+  "description": "Group A high: 35 genes, 8 fates, many reporters/confounders/noise",
+  "n_fates": 8,
+  "n_reporters_per_tf": 3,
+  "n_confounders": 6,
+  "n_noise_genes": 5,
+  "growth_type": "interaction",
+  "noise_sigma": 0.12,
+  "n_time_bins": 8,
+  "holdout_bins": [3, 5],
+  "n_init_cells": 2500,
+  "t_end": 12.0,
+  "topology": "procedural",
+  "topology_spec": {
+    "topology_family": "branching_tree",
+    "feedback_strength": 0.0,
+    "cross_branch_coupling": 0.0,
+    "asymmetry_strength": 0.0,
+    "density_bias": "medium"
+  }
+}

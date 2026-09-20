@@ -1,0 +1,25 @@
+{
+  "name": "baseline_25g_8f_medium",
+  "schema_version": "dynbench_v2",
+  "group": "difficulty_variant",
+  "difficulty": "hard",
+  "description": "Baseline variant: 25 genes, 8 fates, higher noise sigma=0.15",
+  "n_fates": 8,
+  "n_reporters_per_tf": 2,
+  "n_confounders": 4,
+  "n_noise_genes": 3,
+  "growth_type": "interaction",
+  "noise_sigma": 0.15,
+  "n_time_bins": 8,
+  "holdout_bins": [3, 5],
+  "n_init_cells": 2500,
+  "t_end": 12.0,
+  "topology": "procedural",
+  "topology_spec": {
+    "topology_family": "branching_tree",
+    "feedback_strength": 0.0,
+    "cross_branch_coupling": 0.0,
+    "asymmetry_strength": 0.0,
+    "density_bias": "medium"
+  }
+}

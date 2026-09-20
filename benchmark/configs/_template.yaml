@@ -1,0 +1,31 @@
+# Task card template
+# Copy this file, rename, and fill in for your dataset.
+
+dataset_id: my_dataset          # Unique identifier
+source_h5ad: data/my_data.h5ad  # Path relative to repo root, or absolute
+time_key: Time Point            # Column name in adata.obs for time labels
+
+# Optional: cell type column for per-type W1/W2
+label_key: null                 # e.g. "cell_type"
+
+# Agent-agnostic prompt template.
+# Placeholders {training_timepoints} and {held_out_timepoint} are filled per fold.
+prompt_template: |
+  You are given multi-timepoint scRNA-seq data with cells observed at time points: {training_timepoints}.
+  Time point {held_out_timepoint} has been removed.
+  Build a dynamical model and predict the cell distribution at the missing time point {held_out_timepoint}.
+  Save the predicted cells as a separate h5ad file named 'predicted_heldout.h5ad' in your output directory.
+  The time key column in the dataset is '{time_key}'.
+
+folds:
+  - fold_id: middle_holdout
+    held_out_timepoint: "T2"      # Replace with actual time point label
+    training_timepoints:
+      - "T1"
+      - "T3"
+
+  - fold_id: late_holdout
+    held_out_timepoint: "T3"      # Replace with actual time point label
+    training_timepoints:
+      - "T1"
+      - "T2"
